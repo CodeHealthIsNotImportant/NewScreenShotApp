@@ -1,0 +1,8 @@
+- name: Update server2 packages
+  hosts: 192.168.157.132
+  become: yes
+  tasks:
+    - name: Run apt update
+      apt:
+        update_cache: yes  # Update the apt package cache
+        cache_valid_time: 3600  # Cache considered valid for 1 hour

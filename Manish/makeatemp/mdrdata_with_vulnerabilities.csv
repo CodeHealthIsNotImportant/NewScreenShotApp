@@ -1,0 +1,8 @@
+Site Name,Device Hostname,Device Description,Software,Version,Vulnerability
+Site1,one,lll,software 1,25,CVE-1
+Site1,one,lll,software 2,25,CVE-2
+Site1,two,lll,software 3,25,CVE-3
+Site2,one,lll,software 1,25,CVE-1
+Site2,two,lll,software 2,25,CVE-2
+Site2,three,lll,software 3,25,CVE-3
+Site3,one,lll,software 2,25,CVE-2
