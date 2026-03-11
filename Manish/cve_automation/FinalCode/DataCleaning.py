@@ -1,6 +1,6 @@
 import pandas as pd
-df=pd.read_csv("data.csv",encoding="cp1252")
-
+#df=pd.read_csv("data.csv",encoding="cp1252")
+df=pd.read_excel('data.xlsx')
 #getting the detaiails of data 
 print("-"*60)
 print("The head")
@@ -49,8 +49,10 @@ mdrSites = {
     'Hollywood Volume (Formerly: Tommie)',
     'Rountree Consulting',
     'Sydell Group - Miami',
+    'Sydell Group - UK',
     'Malibu Beach Inn',
     'Sunset Tower Hotel',
+    'The Hollywood Roosevelt'
 }
 mdr_df=distinct_rows[distinct_rows["Site Name"].isin(mdrSites)]
 print("-"*60)
