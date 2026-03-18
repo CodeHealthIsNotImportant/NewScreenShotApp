@@ -49,7 +49,6 @@ mdrSites = {
     'Hollywood Volume (Formerly: Tommie)',
     'Rountree Consulting',
     'Sydell Group - Miami',
-    'Sydell Group - UK',
     'Malibu Beach Inn',
     'Sunset Tower Hotel',
     'The Hollywood Roosevelt'

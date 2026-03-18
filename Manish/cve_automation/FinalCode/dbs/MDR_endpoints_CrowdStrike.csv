@@ -1,5 +1,5 @@
 Hostname,Host groups,MAC address,OS version,Manufacturer,Last seen,Asset management,Sensor ID,Tags,Site name,Platform
-SYR-NCENTRAL,67d75ffb4a9e4cb9940fcd1b4f4875c6,00-0C-29-8D-03-AA,Windows 11,"VMware, Inc.",2026-03-05T21:53:21Z,Managed,0eb5571c5e024eb9874bc10602c46a43,FalconGroupingTags/San_Ysidro_Ranch,Default-First-Site-Name,Windows
+SYR-NCENTRAL,67d75ffb4a9e4cb9940fcd1b4f4875c6,00-0C-29-8D-03-AA,Windows 11,"VMware, Inc.",2026-03-05T21:53:21Z,Managed,0eb5571c5e024eb9874bc10602c46a43,San Ysidro Ranch,Default-First-Site-Name,Windows
 LAXKNPR7-006,eb1b27a9dd534c939ff995bb7d1b6383,00-A0-A4-2C-4F-DD,Windows 10,"Oracle America, Inc",2026-03-05T22:03:26Z,Managed,98e188acb2264abfbf27f6ca2f3a6ce5,Hollywood Grande,,Windows
 LAXKNPR7-005,eb1b27a9dd534c939ff995bb7d1b6383,00-A0-A4-2C-17-84,Windows 10,"Oracle America, Inc",2026-03-05T21:41:33Z,Managed,e0cf307f89ef4a0a8234a5aec4bf70b5,Hollywood Grande,,Windows
 LAXKNPR7-003,eb1b27a9dd534c939ff995bb7d1b6383,00-A0-A4-2C-3E-5B,Windows 10,"Oracle America, Inc",2026-03-05T21:47:47Z,Managed,4cf36e9b83bf42feabf9d5c3b556122a,Hollywood Grande,,Windows
@@ -64,108 +64,108 @@ MBI-HYPERVSVR2,3b9e1794d2764b5dbfc4340ed8f8f80b,"8C-84-74-2C-73-30, 8C-84-74-2C-
 MBI-FDRIGHT,3b9e1794d2764b5dbfc4340ed8f8f80b,"FC-5C-EE-87-AD-5E, 4C-49-6C-64-DB-DD",Windows 11,LENOVO,2026-03-05T22:04:12Z,Managed,15b7bc90523b4955a005b22d9d4a604e,Malibu Beach Inn,Default-First-Site-Name,Windows
 MBI-FDMIDDLE,3b9e1794d2764b5dbfc4340ed8f8f80b,"54-05-DB-26-C5-D9, 34-2E-B7-52-72-86",Windows 11,LENOVO,2026-03-05T21:49:58Z,Managed,24779568ca934a0892b8891188f722ef,Malibu Beach Inn,Default-First-Site-Name,Windows
 MBI-OPI3,3b9e1794d2764b5dbfc4340ed8f8f80b,00-15-5D-53-DF-01,Windows Server 2025,Microsoft Corporation,2026-03-05T21:43:13Z,Managed,c3bda7543fbd4d3c994e3528e961d9aa,Malibu Beach Inn,Default-First-Site-Name,Windows
-RTC-L-01,ca6590216e264a3591f96a6cce75129c,"00-09-0F-FE-00-01, 4C-B0-4A-93-57-24",Windows 11,LENOVO,2026-02-26T01:52:01Z,Managed,26a128bac1294449b707a63cebac05d3,Rountree_Consulting,Default-First-Site-Name,Windows
-RTC-L-02,ca6590216e264a3591f96a6cce75129c,"00-09-0F-FE-00-01, 4C-B0-4A-92-AD-B0",Windows 11,LENOVO,2026-03-05T01:24:54Z,Managed,be23445ba98a4960b9755ca5c711db91,Rountree_Consulting,Default-First-Site-Name,Windows
-RTC-DT-03,ca6590216e264a3591f96a6cce75129c,"04-7C-16-FD-52-3D, C4-47-4E-07-C2-7C",Windows 11,LENOVO,2026-03-05T21:55:53Z,Managed,e2a43c9e8d274dd7966fdd1e81ba17cc,Rountree_Consulting,Default-First-Site-Name,Windows
-RTC-DT-02,ca6590216e264a3591f96a6cce75129c,04-7C-16-FD-52-3C,Windows 11,LENOVO,2026-03-05T22:04:15Z,Managed,7977ab28091541bb8ec645d9437cdf44,Rountree_Consulting,Default-First-Site-Name,Windows
-RTC-HOST,ca6590216e264a3591f96a6cce75129c,80-30-E0-42-20-79,Windows Server 2019,HPE,2026-03-05T21:55:07Z,Managed,ded621127c28425586809c0024c6a633,Rountree_Consulting,Default-First-Site-Name,Windows
-QB-SERVER,ca6590216e264a3591f96a6cce75129c,00-15-5D-EB-06-00,Windows Server 2019,Microsoft Corporation,2026-03-05T21:39:33Z,Managed,cb27557ef5574be498ca58c00a8d86f8,Rountree_Consulting,Default-First-Site-Name,Windows
-SYRWS04,67d75ffb4a9e4cb9940fcd1b4f4875c6,00-A0-A4-35-43-BC,Windows 10,"Oracle America, Inc",2026-03-05T21:28:37Z,Managed,3b4e0286b4b547e88a8f4c94fd822917,San_Ysidro_Ranch,,Windows
-SYRWS-72,67d75ffb4a9e4cb9940fcd1b4f4875c6,"74-5D-22-08-02-04, 72-D8-C2-01-C3-AE",Windows 11,LENOVO,2026-03-05T21:38:11Z,Managed,0ec9fbb1006b42489b9cd919618d8f44,San_Ysidro_Ranch,Default-First-Site-Name,Windows
-OWS24305NR2CWHE,67d75ffb4a9e4cb9940fcd1b4f4875c6,"74-56-3C-BA-97-C8, 74-56-3C-BA-97-C9",Windows 10,"Gigabyte Technology Co., Ltd.",2026-03-05T21:48:21Z,Managed,669885f9a36b448ba81ed88b0a424fe6,San_Ysidro_Ranch,,Windows
-SYRWS-79,67d75ffb4a9e4cb9940fcd1b4f4875c6,74-5D-22-10-57-8B,Windows 11,LENOVO,2026-03-05T21:38:00Z,Managed,305bcfc760314c26bbdeef7bb320d310,San_Ysidro_Ranch,Default-First-Site-Name,Windows
-SYRWS-82,67d75ffb4a9e4cb9940fcd1b4f4875c6,74-5D-22-10-56-D2,Windows 11,LENOVO,2026-03-05T21:46:39Z,Managed,e09230bc44144bf9bbcaf99673fe0eb8,San_Ysidro_Ranch,Default-First-Site-Name,Windows
-SYRWS-CHEF1,67d75ffb4a9e4cb9940fcd1b4f4875c6,B8-85-84-A5-8D-45,Windows 11,Dell Inc.,2026-03-05T22:03:23Z,Managed,c81af39a2aaf471ea5558c781d871953,San_Ysidro_Ranch,Default-First-Site-Name,Windows
-SYRWS05,67d75ffb4a9e4cb9940fcd1b4f4875c6,00-A0-A4-35-12-FA,Windows 10,"Oracle America, Inc",2026-03-05T21:58:48Z,Managed,476a926533164d00990864bbd07e399e,San_Ysidro_Ranch,,Windows
-SYRWS_45,67d75ffb4a9e4cb9940fcd1b4f4875c6,"00-09-0F-FE-00-01, F8-CE-72-FB-56-C1, A2-59-50-04-72-89, A0-59-50-04-72-89",Windows 11,LENOVO,2026-03-05T22:00:34Z,Managed,a47e9a36e9f041fd8c2e3960864af46d,San_Ysidro_Ranch,Default-First-Site-Name,Windows
-SYRWS09,67d75ffb4a9e4cb9940fcd1b4f4875c6,00-A0-A4-35-43-9D,Windows 10,"Oracle America, Inc",2026-03-05T22:02:52Z,Managed,55cb90abb7c7433ba16638778cf51c7c,San_Ysidro_Ranch,,Windows
-SYRWS10,67d75ffb4a9e4cb9940fcd1b4f4875c6,00-A0-A4-35-46-32,Windows 10,"Oracle America, Inc",2026-03-05T21:41:27Z,Managed,6f7f043a5a3a42d68efc4794a66fa322,San_Ysidro_Ranch,,Windows
-SYRWS11,67d75ffb4a9e4cb9940fcd1b4f4875c6,00-A0-A4-35-3E-43,Windows 10,"Oracle America, Inc",2026-03-02T05:13:55Z,Managed,d4ef3c3c2efa467488ae7e6a46de8a25,San_Ysidro_Ranch,,Windows
-SYRWS_43,67d75ffb4a9e4cb9940fcd1b4f4875c6,D8-BB-C1-B9-FE-7D,Windows 11,LENOVO,2026-03-05T21:51:40Z,Managed,51350b2e84044a749ad57a9f3cab2ce5,San_Ysidro_Ranch,Default-First-Site-Name,Windows
-SYRWS_44,67d75ffb4a9e4cb9940fcd1b4f4875c6,88-D8-2E-55-74-45,Windows 10,LENOVO,2026-03-01T00:43:29Z,Managed,033f559a679e4464b554ed909d236abc,San_Ysidro_Ranch,Default-First-Site-Name,Windows
-SYRWS_49,67d75ffb4a9e4cb9940fcd1b4f4875c6,D8-BB-C1-B9-26-F1,Windows 11,LENOVO,2026-03-05T21:52:23Z,Managed,8456200dc7e342b9914a7fb44c8ab0bc,San_Ysidro_Ranch,Default-First-Site-Name,Windows
-SYR_WS50,67d75ffb4a9e4cb9940fcd1b4f4875c6,D8-BB-C1-B9-26-70,Windows 11,LENOVO,2026-03-05T21:47:37Z,Managed,816c615e2d474fbd946e17791a0ffa89,San_Ysidro_Ranch,Default-First-Site-Name,Windows
-SYRWS-71,67d75ffb4a9e4cb9940fcd1b4f4875c6,74-5D-22-06-66-FC,Windows 11,LENOVO,2026-03-05T21:42:20Z,Managed,b18bb5e335b540b781c7ab0fec934bdf,San_Ysidro_Ranch,Default-First-Site-Name,Windows
-SYRWS08,67d75ffb4a9e4cb9940fcd1b4f4875c6,00-A0-A4-35-53-49,Windows 10,"Oracle America, Inc",2026-03-05T22:04:40Z,Managed,1aa7598ac4d14b33a3df873668e97589,San_Ysidro_Ranch,,Windows
-SYRWS-69,67d75ffb4a9e4cb9940fcd1b4f4875c6,74-5D-22-01-8F-C9,Windows 11,LENOVO,2026-03-05T22:01:35Z,Managed,a303bf95cc9543a586c9b6adc004da78,San_Ysidro_Ranch,Default-First-Site-Name,Windows
-SYRWS-68,67d75ffb4a9e4cb9940fcd1b4f4875c6,74-5D-22-06-69-3B,Windows 11,LENOVO,2026-03-05T21:54:55Z,Managed,e232cbed80b34455bd7f80989be21f32,San_Ysidro_Ranch,Default-First-Site-Name,Windows
-MICROS-SVR,67d75ffb4a9e4cb9940fcd1b4f4875c6,20-67-7C-D8-73-0D,Windows Server 2012 R2,HP,2026-03-03T18:24:12Z,Managed,b93f5b2bec81457cad8757d1d2364112,San_Ysidro_Ranch,,Windows
-FDMANAGER,67d75ffb4a9e4cb9940fcd1b4f4875c6,A4-BB-6D-A9-39-2B,Windows 11,Dell Inc.,2026-03-05T21:51:42Z,Managed,f3da1e9c42da4c1e8e9dc0439d2ef034,San_Ysidro_Ranch,Default-First-Site-Name,Windows
-EXECASSISTANT,67d75ffb4a9e4cb9940fcd1b4f4875c6,A4-BB-6D-A8-FC-59,Windows 11,Dell Inc.,2026-03-04T18:14:06Z,Managed,9fb54a737d7c43c2a8df001c4c6e5282,San_Ysidro_Ranch,Default-First-Site-Name,Windows
-SYR-B4TCCGW,67d75ffb4a9e4cb9940fcd1b4f4875c6,00-0C-29-ED-AD-38,Windows 10,"VMware, Inc.",2026-03-05T21:26:36Z,Managed,e0ff5baa0c38407899fb14a3be9a8f6b,San_Ysidro_Ranch,Default-First-Site-Name,Windows
-SYR-B4TFIAS,67d75ffb4a9e4cb9940fcd1b4f4875c6,00-0C-29-0A-7D-00,Windows Server 2016,"VMware, Inc.",2026-03-05T21:54:30Z,Managed,5d70a67d801d47d6ace00d80b8184cc6,San_Ysidro_Ranch,Default-First-Site-Name,Windows
-SYR-DATA,67d75ffb4a9e4cb9940fcd1b4f4875c6,00-0C-29-06-66-2E,Windows Server 2016,"VMware, Inc.",2026-03-05T21:57:00Z,Managed,de6aeab1366243c5a94d311bcbf63d4d,San_Ysidro_Ranch,Default-First-Site-Name,Windows
-SYR-DC,67d75ffb4a9e4cb9940fcd1b4f4875c6,50-9A-4C-A2-09-51,Windows Server 2016,Dell Inc.,2026-03-05T21:36:57Z,Managed,543cc16f15164eaab5fbf5461a487d48,San_Ysidro_Ranch,Default-First-Site-Name,Windows
-SYR-EMA,67d75ffb4a9e4cb9940fcd1b4f4875c6,00-0C-29-B5-7D-D8,Windows Server 2022,"VMware, Inc.",2026-03-04T17:23:50Z,Managed,c6df6d933aa2468992054874ce349f28,San_Ysidro_Ranch,Default-First-Site-Name,Windows
-SYR-ITMGMT,67d75ffb4a9e4cb9940fcd1b4f4875c6,00-0C-29-EB-A6-0A,Windows Server 2022,"VMware, Inc.",2026-03-05T22:00:51Z,Managed,62544c96cae241de976a87ad555a5bc6,San_Ysidro_Ranch,Default-First-Site-Name,Windows
-SYR-PRTSVR,67d75ffb4a9e4cb9940fcd1b4f4875c6,00-0C-29-D3-E4-37,Windows Server 2019,"VMware, Inc.",2026-03-05T21:40:56Z,Managed,be42b87bd4e8448c97305faf743728db,San_Ysidro_Ranch,Default-First-Site-Name,Windows
-SYRSB-MDF-KWT1,67d75ffb4a9e4cb9940fcd1b4f4875c6,00-0C-29-FD-59-DD,Windows Server 2022,"VMware, Inc.",2026-03-05T21:37:53Z,Managed,5d5f85d891e74abcb91f2fcabd5033b9,San_Ysidro_Ranch,Default-First-Site-Name,Windows
-SYRWS-51,67d75ffb4a9e4cb9940fcd1b4f4875c6,04-7C-16-65-24-AF,Windows 11,LENOVO,2026-03-05T21:41:39Z,Managed,d6ea99be04e142a8bb382bce8aaa36f1,San_Ysidro_Ranch,Default-First-Site-Name,Windows
-SYRWS-52,67d75ffb4a9e4cb9940fcd1b4f4875c6,04-7C-16-65-24-9F,Windows 11,LENOVO,2026-03-05T22:04:00Z,Managed,79c579f2a14640d7925274a0badafca3,San_Ysidro_Ranch,Default-First-Site-Name,Windows
-SYR-SPA,67d75ffb4a9e4cb9940fcd1b4f4875c6,04-6C-59-2D-63-97,Windows 11,LENOVO,2026-03-05T22:01:06Z,Managed,d04e77203bc74a9b8a9c415fea756723,San_Ysidro_Ranch,Default-First-Site-Name,Windows
-SYRWS-53,67d75ffb4a9e4cb9940fcd1b4f4875c6,"F4-A8-0D-63-09-29, 80-6D-97-5F-5A-56, 00-D4-9E-CB-6F-1A",Windows 10,LENOVO,2026-03-05T21:39:24Z,Managed,e62a2b9ead3449e288f7a4cc104239f1,San_Ysidro_Ranch,Default-First-Site-Name,Windows
-SYRWS-58,67d75ffb4a9e4cb9940fcd1b4f4875c6,04-7C-16-95-E2-1D,Windows 11,LENOVO,2026-03-05T21:28:55Z,Managed,e7790b29da354f31b82ac0ae1a6e0133,San_Ysidro_Ranch,Default-First-Site-Name,Windows
-SYRWS-59,67d75ffb4a9e4cb9940fcd1b4f4875c6,"00-09-0F-FE-00-01, 04-7B-CB-63-B5-C6, 58-1C-F8-AB-DE-07",Windows 11,LENOVO,2026-03-05T22:05:01Z,Managed,4162fd96ec214a8dafb97e92bbfea77d,San_Ysidro_Ranch,Default-First-Site-Name,Windows
-SYRWS-63,67d75ffb4a9e4cb9940fcd1b4f4875c6,"80-6D-97-5F-62-79, 00-09-0F-FE-00-01, 70-D8-23-DD-71-DD",Windows 11,LENOVO,2026-03-05T21:41:38Z,Managed,4e6bc27a35934812b8f8a2f35a38f235,San_Ysidro_Ranch,Default-First-Site-Name,Windows
-SYRWS-64,67d75ffb4a9e4cb9940fcd1b4f4875c6,"74-5D-22-01-95-21, 70-D8-C2-01-5D-38",Windows 11,LENOVO,2026-03-05T21:57:49Z,Managed,0a7e6b20966a4932bee17433a32740d2,San_Ysidro_Ranch,Default-First-Site-Name,Windows
-SYRWS-67,67d75ffb4a9e4cb9940fcd1b4f4875c6,74-5D-22-06-69-2A,Windows 11,LENOVO,2026-03-05T21:51:47Z,Managed,679d3ae02f3748f4af8bd2e57234ba00,San_Ysidro_Ranch,Default-First-Site-Name,Windows
-STHLGM,dd461f84d65749c39ca435673d7559b2,"88-A4-C2-51-C5-D0, 4C-D5-77-7A-82-73",Windows 11,LENOVO,2026-03-05T22:02:08Z,Managed,d6a39933a9bb4e898c1b002a3f27659a,Sunset_Tower_Hotel,Default-First-Site-Name,Windows
-STHSVR-FILE01,dd461f84d65749c39ca435673d7559b2,00-15-5D-4D-0B-05,Windows Server 2019,Microsoft Corporation,2026-03-05T21:40:45Z,Managed,84dd8505d5a149c789379e2aa94a3cc5,Sunset_Tower_Hotel,Default-First-Site-Name,Windows
-STHSVR-HYPERV02,dd461f84d65749c39ca435673d7559b2,40-5B-7F-91-E3-F0,Windows Server 2025,HPE,2026-03-05T21:37:02Z,Managed,ac6d9400ccf94449af9476cb67fd11d7,Sunset_Tower_Hotel,,Windows
-STHSVRPMSIFC2,dd461f84d65749c39ca435673d7559b2,00-15-5D-4D-0B-00,Windows Server 2025,Microsoft Corporation,2026-03-05T21:59:06Z,Managed,62b55d2699b3402ab398a21aa8fef1a8,Sunset_Tower_Hotel,Default-First-Site-Name,Windows
-VINGCARD,dd461f84d65749c39ca435673d7559b2,C4-65-16-19-28-90,Windows 10,HP,2026-03-05T21:57:01Z,Managed,d53ccf96cc0a45c181f2f2bb546b0b23,Sunset_Tower_Hotel,Default-First-Site-Name,Windows
-SUNLSALES01,dd461f84d65749c39ca435673d7559b2,"04-7C-16-21-D6-E0, 98-25-4A-FE-3D-7E",Windows 11,LENOVO,2026-03-05T21:51:11Z,Managed,5f7f9a01ebcf4d32af6d572d4925b5b9,Sunset_Tower_Hotel,Default-First-Site-Name,Windows
-LAPTOP-NROBB0MQ,dd461f84d65749c39ca435673d7559b2,"F8-CE-72-19-F9-9C, F4-3B-D8-AC-D0-3C",Windows 11,LENOVO,2026-03-05T21:41:07Z,Managed,39abc97beb3949259556bd69c942bf97,Sunset_Tower_Hotel,Default-First-Site-Name,Windows
-STH-SPARE01-LT,dd461f84d65749c39ca435673d7559b2,"C4-C6-E6-49-72-BE, 2C-7B-A0-96-07-80",Windows 11,LENOVO,2026-03-05T21:49:22Z,Managed,975d54d3ac9b410ebce0356424814afe,Sunset_Tower_Hotel,Default-First-Site-Name,Windows
-CA-SUNSETTOWERH,dd461f84d65749c39ca435673d7559b2,A0-1E-0B-13-13-43,Windows 10,OEM Production,2026-03-05T21:29:30Z,Managed,036b442265494251bb56ec5300bb264d,Sunset_Tower_Hotel,,Windows
-SUN-DC4,dd461f84d65749c39ca435673d7559b2,00-15-5D-4D-0B-01,Windows Server 2025,Microsoft Corporation,2026-03-05T21:47:17Z,Managed,919649f41b4b4cc9b2376fe0d8dc7bde,Sunset_Tower_Hotel,Default-First-Site-Name,Windows
-STH-PAYROLL-DT,dd461f84d65749c39ca435673d7559b2,"D8-BB-C1-B9-FD-89, B0-19-21-E7-7F-FB",Windows 11,LENOVO,2026-03-05T22:03:27Z,Managed,b9fbe568a1f64ed6bb99e357fc7d6c3e,Sunset_Tower_Hotel,Default-First-Site-Name,Windows
-STH-FNBMANAGER,dd461f84d65749c39ca435673d7559b2,"04-7C-16-2D-37-4B, B0-19-21-E7-82-29",Windows 11,LENOVO,2026-03-05T07:27:00Z,Managed,7fcb26aab09c40aabbc8d521b1c06062,Sunset_Tower_Hotel,Default-First-Site-Name,Windows
-STH-HSKPSUP-DT,dd461f84d65749c39ca435673d7559b2,18-3D-2D-7E-8E-33,Windows 11,LENOVO,2026-03-05T21:31:53Z,Managed,0dd2fbb306544a8788000dcd8c706191,Sunset_Tower_Hotel,Default-First-Site-Name,Windows
-STH-HSKPMGR-LT,dd461f84d65749c39ca435673d7559b2,"F4-A8-0D-0D-E3-1B, 18-93-41-37-EE-43",Windows 11,LENOVO,2026-03-05T21:54:53Z,Managed,70717d7d9dc84d7dab34949b5efb0376,Sunset_Tower_Hotel,Default-First-Site-Name,Windows
-STH-HRDIR-DT,dd461f84d65749c39ca435673d7559b2,"C8-D9-D2-23-88-00, B0-19-21-E7-6C-59",Windows 11,HP,2026-03-05T21:52:39Z,Managed,506d461538e1441f81c392adc75067eb,Sunset_Tower_Hotel,Default-First-Site-Name,Windows
-STH-FDMGR3-LT,dd461f84d65749c39ca435673d7559b2,18-93-41-39-4D-A6,Windows 11,LENOVO,2026-03-05T21:44:15Z,Managed,b7beef0ef2654fefab3fcd6107b46446,Sunset_Tower_Hotel,Default-First-Site-Name,Windows
-STH-FDMGR-DT2,dd461f84d65749c39ca435673d7559b2,"40-C2-BA-C2-8C-1A, 2A-B2-B9-AE-DD-F1",Windows 11,LENOVO,2026-03-05T21:57:17Z,Managed,f0f781198eb140b7bc5e7e1c554f29c4,Sunset_Tower_Hotel,Default-First-Site-Name,Windows
-STH-FD3-DT2,dd461f84d65749c39ca435673d7559b2,"40-C2-BA-C2-8D-55, 2A-B2-B9-AE-DD-99, 24-B2-B9-AE-DD-99",Windows 11,LENOVO,2026-03-05T21:56:13Z,Managed,5bd3b414caf34f7f8f45ec47c776382d,Sunset_Tower_Hotel,Default-First-Site-Name,Windows
-STH-FD2-DT,dd461f84d65749c39ca435673d7559b2,"E0-73-E7-39-7D-33, 74-97-79-12-B8-1B",Windows 11,HP,2026-03-05T21:52:48Z,Managed,1a0c55bf281c4fea9cffdb870d5377bf,Sunset_Tower_Hotel,Default-First-Site-Name,Windows
-STH-EVENTS2-DT,dd461f84d65749c39ca435673d7559b2,"74-5D-22-06-61-C6, 70-D8-C2-02-A5-99",Windows 11,LENOVO,2026-03-05T21:51:40Z,Managed,00953fa8108543c9a325ba02455719d3,Sunset_Tower_Hotel,Default-First-Site-Name,Windows
-OPI-VM2,dd461f84d65749c39ca435673d7559b2,00-15-5D-4D-0B-04,Windows Server 2025,Microsoft Corporation,2026-03-05T22:02:44Z,Managed,011fb129e42c4ba3914f665ba29485fe,Sunset_Tower_Hotel,Default-First-Site-Name,Windows
-STH-DIRROOMS-LT,dd461f84d65749c39ca435673d7559b2,"6C-0B-84-B1-DF-E9, C8-15-4E-0B-7C-0A",Windows 11,LENOVO,2026-03-05T21:49:04Z,Managed,297f58a658a64a0581cb14e896ba5f2b,Sunset_Tower_Hotel,Default-First-Site-Name,Windows
-STH-001,dd461f84d65749c39ca435673d7559b2,"FC-5C-EE-9E-83-9A, 58-6D-67-C3-1B-03",Windows 11,LENOVO,2026-03-05T21:58:57Z,Managed,422f6644521f4684b4fc46c8f98ca269,Sunset_Tower_Hotel,Default-First-Site-Name,Windows
-STH-LIMOKO-DT,dd461f84d65749c39ca435673d7559b2,"3C-52-82-71-5B-B1, 98-25-4A-FE-37-88",Windows 10,HP,2026-03-05T21:30:21Z,Managed,229de70add034b6a8aea7f8d1d2af9e7,Sunset_Tower_Hotel,Default-First-Site-Name,Windows
-SUN-DC3,dd461f84d65749c39ca435673d7559b2,D4-F5-EF-66-9F-5C,Windows Server 2022,HPE,2026-03-05T21:55:33Z,Managed,9f8ded769b6247678f693785c79ade9d,Sunset_Tower_Hotel,Default-First-Site-Name,Windows
-SYDMI-JUMP,f9bd66cd531849bfba240bf27ba7dca2,4C-34-88-62-DE-00,Windows 10,LENOVO,2026-03-05T21:57:05Z,Managed,b1e18116e69a438b8d160a5271f69b5f,Sydell_Miami,,Windows
-SYDELLGROUPFS01,f9bd66cd531849bfba240bf27ba7dca2,00-0D-3A-1B-43-EC,Windows Server 2019,Microsoft Corporation,2026-03-05T21:46:26Z,Managed,089750671d204da486ed4753b647b27b,Sydell_Miami,,Windows
-SYD-LON-LT20,f9bd66cd531849bfba240bf27ba7dca2,E0-0A-F6-51-7B-99,Windows 11,LENOVO,2026-03-05T21:48:38Z,Managed,82f218785e3047209246b84805ad272f,Sydell_Miami,,Windows
-SYD-DTSD-LT,f9bd66cd531849bfba240bf27ba7dca2,80-45-DD-0A-58-89,Windows 11,Microsoft Corporation,2026-03-05T22:04:29Z,Managed,ef247fcbc3804bbd88d3472118adb441,Sydell_Miami,,Windows
-MIACORPLAPT008,f9bd66cd531849bfba240bf27ba7dca2,"F4-A8-0D-1F-CE-E5, C0-3C-59-6F-97-9E",Windows 11,LENOVO,2026-03-05T21:23:53Z,Managed,f2ae905986124f188ddcf47e2b7f37f9,Sydell_Miami,,Windows
-NOM-WYN-OPS-LT,f9bd66cd531849bfba240bf27ba7dca2,"F4-A8-0D-1F-D5-9D, 9C-65-EB-90-28-60",Windows 11,LENOVO,2026-03-05T21:39:18Z,Managed,2ff78bea214a44cdb79ef15b52ea7e1f,Sydell_Miami,,Windows
-NOM-WYN-PRCH-LT,f9bd66cd531849bfba240bf27ba7dca2,"F4-A8-0D-0A-2B-B6, 9C-65-EB-90-5E-89",Windows 11,LENOVO,2026-03-05T21:38:14Z,Managed,e5b72e8d12d447ad95dd7fe23367fbd4,Sydell_Miami,,Windows
-CORENYCLAPT12,f0fa9ea15ba94493b463e1a2a9152f3a,C0-A5-E8-3D-F4-28,Windows 11,LENOVO,2026-03-05T22:05:40Z,Managed,13f3dc3e7fc34b48bfef50c9d9e3095a,The Core Club Fifth,,Windows
-CORENYCLAPT040,f0fa9ea15ba94493b463e1a2a9152f3a,40-C7-3C-EB-8F-84,Windows 11,Microsoft Corporation,2026-03-05T21:26:33Z,Managed,beb51f98d1864b55bdf3259125e944ee,The Core Club Fifth,,Windows
-CORENYCLAPT039,f0fa9ea15ba94493b463e1a2a9152f3a,B0-60-88-53-CD-07,Windows 11,LENOVO,2026-03-05T18:37:27Z,Managed,485ad86c4e2b4ccb9bf38d3105f4a3a9,The Core Club Fifth,,Windows
-CORENYCLAPT036,f0fa9ea15ba94493b463e1a2a9152f3a,8C-3B-4A-AC-0D-5D,Windows 11,LENOVO,2026-03-05T21:44:16Z,Managed,bea9ac979dca41069d42e7927fdc3952,The Core Club Fifth,,Windows
-CORENYCLAPT035,f0fa9ea15ba94493b463e1a2a9152f3a,EC-8E-77-4A-A0-6F,Windows 11,LENOVO,2026-03-05T21:39:12Z,Managed,1bf8d73c9778457e91f6eb8204cbaa8f,The Core Club Fifth,,Windows
-CORENYCLAPT004,f0fa9ea15ba94493b463e1a2a9152f3a,4C-82-A9-5F-2E-4D,Windows 11,LENOVO,2026-03-05T21:52:01Z,Managed,57140b4ef7884c078ac1152067b0f950,The Core Club Fifth,,Windows
-CORENYCLAPT031,f0fa9ea15ba94493b463e1a2a9152f3a,68-C6-AC-08-C6-B3,Windows 11,LENOVO,2026-03-05T21:59:02Z,Managed,24d47605c82147fb8c5f7888cd19974b,The Core Club Fifth,,Windows
-CORENYCLAPT032,f0fa9ea15ba94493b463e1a2a9152f3a,EC-8E-77-4A-AD-58,Windows 11,LENOVO,2026-03-05T19:14:32Z,Managed,5df76e2590ed4fab95d6c9fd83dfa7f7,The Core Club Fifth,,Windows
-CORENYCLAPT021,f0fa9ea15ba94493b463e1a2a9152f3a,04-7B-CB-C8-7A-8A,Windows 11,LENOVO,2026-03-05T21:55:07Z,Managed,9499e12a51fa4afa81aab02b6972ffcb,The Core Club Fifth,,Windows
-CORENYCJUMPPC,f0fa9ea15ba94493b463e1a2a9152f3a,"00-E0-67-2E-83-C9, 0A-00-27-00-00-0E",Windows 10,Protectli,2026-03-05T21:40:42Z,Managed,cf3dea4381a34b53a3f95841c1247c28,The Core Club Fifth,,Windows
-CORENYCLAPT019,f0fa9ea15ba94493b463e1a2a9152f3a,28-DF-EB-F8-9A-7B,Windows 11,LENOVO,2026-03-05T19:50:08Z,Managed,a817a3f0179f467a81b6365698b79bf4,The Core Club Fifth,,Windows
-CORENYCLAPT030,f0fa9ea15ba94493b463e1a2a9152f3a,48-68-4A-17-E0-17,Windows 11,LENOVO,2026-03-05T21:53:43Z,Managed,7c806e34aac3492fabad0eefdec0c363,The Core Club Fifth,,Windows
-CORENYCLAPT007,f0fa9ea15ba94493b463e1a2a9152f3a,28-DF-EB-F9-BC-6C,Windows 11,LENOVO,2026-03-05T20:45:24Z,Managed,6cddb351cb7041f18e36cbd25ac24aec,The Core Club Fifth,,Windows
-CORENYCCONFWORK,f0fa9ea15ba94493b463e1a2a9152f3a,40-74-E0-50-3D-4A,Windows 10,Intel(R) Client Systems,2026-03-05T21:57:05Z,Managed,1900ad02d06444c48533c674302c74a1,The Core Club Fifth,,Windows
-DESKTOP-T5JB52H,f0fa9ea15ba94493b463e1a2a9152f3a,7C-83-34-BC-C8-EF,Windows 10,AZW,2026-03-05T21:33:07Z,Managed,14d01d8b3a3e48089d4d4e4fed4ed943,The Core Club Fifth,,Windows
-CORENYCLAPT025,f0fa9ea15ba94493b463e1a2a9152f3a,10-5F-AD-88-0C-70,Windows 11,LENOVO,2026-03-05T21:58:55Z,Managed,d34677275c3b4f42a9d9346c059fa412,The Core Club Fifth,,Windows
-CORENYCWORK008,f0fa9ea15ba94493b463e1a2a9152f3a,E4-0D-36-7F-D2-F8,Windows 11,LENOVO,2026-03-05T22:03:51Z,Managed,9cc7a9d76153465693446243b9ddedbc,The Core Club Fifth,,Windows
-CORENYCLAPT033,f0fa9ea15ba94493b463e1a2a9152f3a,EC-8E-77-A8-CC-A8,Windows 11,LENOVO,2026-02-24T16:16:09Z,Managed,e4d2ec8f6cd94e019ca55c560ca3a8a8,The Core Club Fifth,,Windows
-CORENYCWORK005,f0fa9ea15ba94493b463e1a2a9152f3a,F0-20-FF-5F-A1-7C,Windows 11,Dell Inc.,2026-03-05T21:41:08Z,Managed,9a32dd6bf437492cb1cdd6824bb811db,The Core Club Fifth,,Windows
-CORENYCWORK004,f0fa9ea15ba94493b463e1a2a9152f3a,38-7A-0E-68-60-E1,Windows 11,LENOVO,2026-03-05T21:46:14Z,Managed,f21aae529d984c36ba3bbd58ca4f6872,The Core Club Fifth,,Windows
-CORENYCLAPT017,f0fa9ea15ba94493b463e1a2a9152f3a,58-1C-F8-7B-76-EA,Windows 11,LENOVO,2026-03-05T21:45:46Z,Managed,6353bb3eec164622ae81f60118277068,The Core Club Fifth,,Windows
-CORENYCSALTOWOR,f0fa9ea15ba94493b463e1a2a9152f3a,00-23-24-C9-76-46,Windows 10,LENOVO,2026-03-05T21:37:56Z,Managed,3a6760d8862f47b7a95a246cd1737853,The Core Club Fifth,,Windows
-CORENYCWORK001,f0fa9ea15ba94493b463e1a2a9152f3a,CC-6B-1E-6B-0C-AD,Windows 11,LENOVO,2026-03-05T21:38:18Z,Managed,8ef9f3de49ce4f8280f3b30ff0f5e4ce,The Core Club Fifth,,Windows
-CORENYCWORK009,f0fa9ea15ba94493b463e1a2a9152f3a,90-10-57-EE-20-7D,Windows 11,Dell Inc.,2026-03-05T21:45:20Z,Managed,861207f91b3b4bf1a4661ea696b032c7,The Core Club Fifth,,Windows
-CORENYCWORK003,f0fa9ea15ba94493b463e1a2a9152f3a,CC-6B-1E-6A-B2-B1,Windows 11,LENOVO,2026-03-05T21:51:42Z,Managed,aaa9956bcd27425ca4f9490857733812,The Core Club Fifth,,Windows
+RTC-L-01,ca6590216e264a3591f96a6cce75129c,"00-09-0F-FE-00-01, 4C-B0-4A-93-57-24",Windows 11,LENOVO,2026-02-26T01:52:01Z,Managed,26a128bac1294449b707a63cebac05d3,Rountree Consulting,Default-First-Site-Name,Windows
+RTC-L-02,ca6590216e264a3591f96a6cce75129c,"00-09-0F-FE-00-01, 4C-B0-4A-92-AD-B0",Windows 11,LENOVO,2026-03-05T01:24:54Z,Managed,be23445ba98a4960b9755ca5c711db91,Rountree Consulting,Default-First-Site-Name,Windows
+RTC-DT-03,ca6590216e264a3591f96a6cce75129c,"04-7C-16-FD-52-3D, C4-47-4E-07-C2-7C",Windows 11,LENOVO,2026-03-05T21:55:53Z,Managed,e2a43c9e8d274dd7966fdd1e81ba17cc,Rountree Consulting,Default-First-Site-Name,Windows
+RTC-DT-02,ca6590216e264a3591f96a6cce75129c,04-7C-16-FD-52-3C,Windows 11,LENOVO,2026-03-05T22:04:15Z,Managed,7977ab28091541bb8ec645d9437cdf44,Rountree Consulting,Default-First-Site-Name,Windows
+RTC-HOST,ca6590216e264a3591f96a6cce75129c,80-30-E0-42-20-79,Windows Server 2019,HPE,2026-03-05T21:55:07Z,Managed,ded621127c28425586809c0024c6a633,Rountree Consulting,Default-First-Site-Name,Windows
+QB-SERVER,ca6590216e264a3591f96a6cce75129c,00-15-5D-EB-06-00,Windows Server 2019,Microsoft Corporation,2026-03-05T21:39:33Z,Managed,cb27557ef5574be498ca58c00a8d86f8,Rountree Consulting,Default-First-Site-Name,Windows
+SYRWS04,67d75ffb4a9e4cb9940fcd1b4f4875c6,00-A0-A4-35-43-BC,Windows 10,"Oracle America, Inc",2026-03-05T21:28:37Z,Managed,3b4e0286b4b547e88a8f4c94fd822917,San Ysidro Ranch,,Windows
+SYRWS-72,67d75ffb4a9e4cb9940fcd1b4f4875c6,"74-5D-22-08-02-04, 72-D8-C2-01-C3-AE",Windows 11,LENOVO,2026-03-05T21:38:11Z,Managed,0ec9fbb1006b42489b9cd919618d8f44,San Ysidro Ranch,Default-First-Site-Name,Windows
+OWS24305NR2CWHE,67d75ffb4a9e4cb9940fcd1b4f4875c6,"74-56-3C-BA-97-C8, 74-56-3C-BA-97-C9",Windows 10,"Gigabyte Technology Co., Ltd.",2026-03-05T21:48:21Z,Managed,669885f9a36b448ba81ed88b0a424fe6,San Ysidro Ranch,,Windows
+SYRWS-79,67d75ffb4a9e4cb9940fcd1b4f4875c6,74-5D-22-10-57-8B,Windows 11,LENOVO,2026-03-05T21:38:00Z,Managed,305bcfc760314c26bbdeef7bb320d310,San Ysidro Ranch,Default-First-Site-Name,Windows
+SYRWS-82,67d75ffb4a9e4cb9940fcd1b4f4875c6,74-5D-22-10-56-D2,Windows 11,LENOVO,2026-03-05T21:46:39Z,Managed,e09230bc44144bf9bbcaf99673fe0eb8,San Ysidro Ranch,Default-First-Site-Name,Windows
+SYRWS-CHEF1,67d75ffb4a9e4cb9940fcd1b4f4875c6,B8-85-84-A5-8D-45,Windows 11,Dell Inc.,2026-03-05T22:03:23Z,Managed,c81af39a2aaf471ea5558c781d871953,San Ysidro Ranch,Default-First-Site-Name,Windows
+SYRWS05,67d75ffb4a9e4cb9940fcd1b4f4875c6,00-A0-A4-35-12-FA,Windows 10,"Oracle America, Inc",2026-03-05T21:58:48Z,Managed,476a926533164d00990864bbd07e399e,San Ysidro Ranch,,Windows
+SYRWS_45,67d75ffb4a9e4cb9940fcd1b4f4875c6,"00-09-0F-FE-00-01, F8-CE-72-FB-56-C1, A2-59-50-04-72-89, A0-59-50-04-72-89",Windows 11,LENOVO,2026-03-05T22:00:34Z,Managed,a47e9a36e9f041fd8c2e3960864af46d,San Ysidro Ranch,Default-First-Site-Name,Windows
+SYRWS09,67d75ffb4a9e4cb9940fcd1b4f4875c6,00-A0-A4-35-43-9D,Windows 10,"Oracle America, Inc",2026-03-05T22:02:52Z,Managed,55cb90abb7c7433ba16638778cf51c7c,San Ysidro Ranch,,Windows
+SYRWS10,67d75ffb4a9e4cb9940fcd1b4f4875c6,00-A0-A4-35-46-32,Windows 10,"Oracle America, Inc",2026-03-05T21:41:27Z,Managed,6f7f043a5a3a42d68efc4794a66fa322,San Ysidro Ranch,,Windows
+SYRWS11,67d75ffb4a9e4cb9940fcd1b4f4875c6,00-A0-A4-35-3E-43,Windows 10,"Oracle America, Inc",2026-03-02T05:13:55Z,Managed,d4ef3c3c2efa467488ae7e6a46de8a25,San Ysidro Ranch,,Windows
+SYRWS_43,67d75ffb4a9e4cb9940fcd1b4f4875c6,D8-BB-C1-B9-FE-7D,Windows 11,LENOVO,2026-03-05T21:51:40Z,Managed,51350b2e84044a749ad57a9f3cab2ce5,San Ysidro Ranch,Default-First-Site-Name,Windows
+SYRWS_44,67d75ffb4a9e4cb9940fcd1b4f4875c6,88-D8-2E-55-74-45,Windows 10,LENOVO,2026-03-01T00:43:29Z,Managed,033f559a679e4464b554ed909d236abc,San Ysidro Ranch,Default-First-Site-Name,Windows
+SYRWS_49,67d75ffb4a9e4cb9940fcd1b4f4875c6,D8-BB-C1-B9-26-F1,Windows 11,LENOVO,2026-03-05T21:52:23Z,Managed,8456200dc7e342b9914a7fb44c8ab0bc,San Ysidro Ranch,Default-First-Site-Name,Windows
+SYR_WS50,67d75ffb4a9e4cb9940fcd1b4f4875c6,D8-BB-C1-B9-26-70,Windows 11,LENOVO,2026-03-05T21:47:37Z,Managed,816c615e2d474fbd946e17791a0ffa89,San Ysidro Ranch,Default-First-Site-Name,Windows
+SYRWS-71,67d75ffb4a9e4cb9940fcd1b4f4875c6,74-5D-22-06-66-FC,Windows 11,LENOVO,2026-03-05T21:42:20Z,Managed,b18bb5e335b540b781c7ab0fec934bdf,San Ysidro Ranch,Default-First-Site-Name,Windows
+SYRWS08,67d75ffb4a9e4cb9940fcd1b4f4875c6,00-A0-A4-35-53-49,Windows 10,"Oracle America, Inc",2026-03-05T22:04:40Z,Managed,1aa7598ac4d14b33a3df873668e97589,San Ysidro Ranch,,Windows
+SYRWS-69,67d75ffb4a9e4cb9940fcd1b4f4875c6,74-5D-22-01-8F-C9,Windows 11,LENOVO,2026-03-05T22:01:35Z,Managed,a303bf95cc9543a586c9b6adc004da78,San Ysidro Ranch,Default-First-Site-Name,Windows
+SYRWS-68,67d75ffb4a9e4cb9940fcd1b4f4875c6,74-5D-22-06-69-3B,Windows 11,LENOVO,2026-03-05T21:54:55Z,Managed,e232cbed80b34455bd7f80989be21f32,San Ysidro Ranch,Default-First-Site-Name,Windows
+MICROS-SVR,67d75ffb4a9e4cb9940fcd1b4f4875c6,20-67-7C-D8-73-0D,Windows Server 2012 R2,HP,2026-03-03T18:24:12Z,Managed,b93f5b2bec81457cad8757d1d2364112,San Ysidro Ranch,,Windows
+FDMANAGER,67d75ffb4a9e4cb9940fcd1b4f4875c6,A4-BB-6D-A9-39-2B,Windows 11,Dell Inc.,2026-03-05T21:51:42Z,Managed,f3da1e9c42da4c1e8e9dc0439d2ef034,San Ysidro Ranch,Default-First-Site-Name,Windows
+EXECASSISTANT,67d75ffb4a9e4cb9940fcd1b4f4875c6,A4-BB-6D-A8-FC-59,Windows 11,Dell Inc.,2026-03-04T18:14:06Z,Managed,9fb54a737d7c43c2a8df001c4c6e5282,San Ysidro Ranch,Default-First-Site-Name,Windows
+SYR-B4TCCGW,67d75ffb4a9e4cb9940fcd1b4f4875c6,00-0C-29-ED-AD-38,Windows 10,"VMware, Inc.",2026-03-05T21:26:36Z,Managed,e0ff5baa0c38407899fb14a3be9a8f6b,San Ysidro Ranch,Default-First-Site-Name,Windows
+SYR-B4TFIAS,67d75ffb4a9e4cb9940fcd1b4f4875c6,00-0C-29-0A-7D-00,Windows Server 2016,"VMware, Inc.",2026-03-05T21:54:30Z,Managed,5d70a67d801d47d6ace00d80b8184cc6,San Ysidro Ranch,Default-First-Site-Name,Windows
+SYR-DATA,67d75ffb4a9e4cb9940fcd1b4f4875c6,00-0C-29-06-66-2E,Windows Server 2016,"VMware, Inc.",2026-03-05T21:57:00Z,Managed,de6aeab1366243c5a94d311bcbf63d4d,San Ysidro Ranch,Default-First-Site-Name,Windows
+SYR-DC,67d75ffb4a9e4cb9940fcd1b4f4875c6,50-9A-4C-A2-09-51,Windows Server 2016,Dell Inc.,2026-03-05T21:36:57Z,Managed,543cc16f15164eaab5fbf5461a487d48,San Ysidro Ranch,Default-First-Site-Name,Windows
+SYR-EMA,67d75ffb4a9e4cb9940fcd1b4f4875c6,00-0C-29-B5-7D-D8,Windows Server 2022,"VMware, Inc.",2026-03-04T17:23:50Z,Managed,c6df6d933aa2468992054874ce349f28,San Ysidro Ranch,Default-First-Site-Name,Windows
+SYR-ITMGMT,67d75ffb4a9e4cb9940fcd1b4f4875c6,00-0C-29-EB-A6-0A,Windows Server 2022,"VMware, Inc.",2026-03-05T22:00:51Z,Managed,62544c96cae241de976a87ad555a5bc6,San Ysidro Ranch,Default-First-Site-Name,Windows
+SYR-PRTSVR,67d75ffb4a9e4cb9940fcd1b4f4875c6,00-0C-29-D3-E4-37,Windows Server 2019,"VMware, Inc.",2026-03-05T21:40:56Z,Managed,be42b87bd4e8448c97305faf743728db,San Ysidro Ranch,Default-First-Site-Name,Windows
+SYRSB-MDF-KWT1,67d75ffb4a9e4cb9940fcd1b4f4875c6,00-0C-29-FD-59-DD,Windows Server 2022,"VMware, Inc.",2026-03-05T21:37:53Z,Managed,5d5f85d891e74abcb91f2fcabd5033b9,San Ysidro Ranch,Default-First-Site-Name,Windows
+SYRWS-51,67d75ffb4a9e4cb9940fcd1b4f4875c6,04-7C-16-65-24-AF,Windows 11,LENOVO,2026-03-05T21:41:39Z,Managed,d6ea99be04e142a8bb382bce8aaa36f1,San Ysidro Ranch,Default-First-Site-Name,Windows
+SYRWS-52,67d75ffb4a9e4cb9940fcd1b4f4875c6,04-7C-16-65-24-9F,Windows 11,LENOVO,2026-03-05T22:04:00Z,Managed,79c579f2a14640d7925274a0badafca3,San Ysidro Ranch,Default-First-Site-Name,Windows
+SYR-SPA,67d75ffb4a9e4cb9940fcd1b4f4875c6,04-6C-59-2D-63-97,Windows 11,LENOVO,2026-03-05T22:01:06Z,Managed,d04e77203bc74a9b8a9c415fea756723,San Ysidro Ranch,Default-First-Site-Name,Windows
+SYRWS-53,67d75ffb4a9e4cb9940fcd1b4f4875c6,"F4-A8-0D-63-09-29, 80-6D-97-5F-5A-56, 00-D4-9E-CB-6F-1A",Windows 10,LENOVO,2026-03-05T21:39:24Z,Managed,e62a2b9ead3449e288f7a4cc104239f1,San Ysidro Ranch,Default-First-Site-Name,Windows
+SYRWS-58,67d75ffb4a9e4cb9940fcd1b4f4875c6,04-7C-16-95-E2-1D,Windows 11,LENOVO,2026-03-05T21:28:55Z,Managed,e7790b29da354f31b82ac0ae1a6e0133,San Ysidro Ranch,Default-First-Site-Name,Windows
+SYRWS-59,67d75ffb4a9e4cb9940fcd1b4f4875c6,"00-09-0F-FE-00-01, 04-7B-CB-63-B5-C6, 58-1C-F8-AB-DE-07",Windows 11,LENOVO,2026-03-05T22:05:01Z,Managed,4162fd96ec214a8dafb97e92bbfea77d,San Ysidro Ranch,Default-First-Site-Name,Windows
+SYRWS-63,67d75ffb4a9e4cb9940fcd1b4f4875c6,"80-6D-97-5F-62-79, 00-09-0F-FE-00-01, 70-D8-23-DD-71-DD",Windows 11,LENOVO,2026-03-05T21:41:38Z,Managed,4e6bc27a35934812b8f8a2f35a38f235,San Ysidro Ranch,Default-First-Site-Name,Windows
+SYRWS-64,67d75ffb4a9e4cb9940fcd1b4f4875c6,"74-5D-22-01-95-21, 70-D8-C2-01-5D-38",Windows 11,LENOVO,2026-03-05T21:57:49Z,Managed,0a7e6b20966a4932bee17433a32740d2,San Ysidro Ranch,Default-First-Site-Name,Windows
+SYRWS-67,67d75ffb4a9e4cb9940fcd1b4f4875c6,74-5D-22-06-69-2A,Windows 11,LENOVO,2026-03-05T21:51:47Z,Managed,679d3ae02f3748f4af8bd2e57234ba00,San Ysidro Ranch,Default-First-Site-Name,Windows
+STHLGM,dd461f84d65749c39ca435673d7559b2,"88-A4-C2-51-C5-D0, 4C-D5-77-7A-82-73",Windows 11,LENOVO,2026-03-05T22:02:08Z,Managed,d6a39933a9bb4e898c1b002a3f27659a,Sunset Tower Hotel,Default-First-Site-Name,Windows
+STHSVR-FILE01,dd461f84d65749c39ca435673d7559b2,00-15-5D-4D-0B-05,Windows Server 2019,Microsoft Corporation,2026-03-05T21:40:45Z,Managed,84dd8505d5a149c789379e2aa94a3cc5,Sunset Tower Hotel,Default-First-Site-Name,Windows
+STHSVR-HYPERV02,dd461f84d65749c39ca435673d7559b2,40-5B-7F-91-E3-F0,Windows Server 2025,HPE,2026-03-05T21:37:02Z,Managed,ac6d9400ccf94449af9476cb67fd11d7,Sunset Tower Hotel,,Windows
+STHSVRPMSIFC2,dd461f84d65749c39ca435673d7559b2,00-15-5D-4D-0B-00,Windows Server 2025,Microsoft Corporation,2026-03-05T21:59:06Z,Managed,62b55d2699b3402ab398a21aa8fef1a8,Sunset Tower Hotel,Default-First-Site-Name,Windows
+VINGCARD,dd461f84d65749c39ca435673d7559b2,C4-65-16-19-28-90,Windows 10,HP,2026-03-05T21:57:01Z,Managed,d53ccf96cc0a45c181f2f2bb546b0b23,Sunset Tower Hotel,Default-First-Site-Name,Windows
+SUNLSALES01,dd461f84d65749c39ca435673d7559b2,"04-7C-16-21-D6-E0, 98-25-4A-FE-3D-7E",Windows 11,LENOVO,2026-03-05T21:51:11Z,Managed,5f7f9a01ebcf4d32af6d572d4925b5b9,Sunset Tower Hotel,Default-First-Site-Name,Windows
+LAPTOP-NROBB0MQ,dd461f84d65749c39ca435673d7559b2,"F8-CE-72-19-F9-9C, F4-3B-D8-AC-D0-3C",Windows 11,LENOVO,2026-03-05T21:41:07Z,Managed,39abc97beb3949259556bd69c942bf97,Sunset Tower Hotel,Default-First-Site-Name,Windows
+STH-SPARE01-LT,dd461f84d65749c39ca435673d7559b2,"C4-C6-E6-49-72-BE, 2C-7B-A0-96-07-80",Windows 11,LENOVO,2026-03-05T21:49:22Z,Managed,975d54d3ac9b410ebce0356424814afe,Sunset Tower Hotel,Default-First-Site-Name,Windows
+CA-SUNSETTOWERH,dd461f84d65749c39ca435673d7559b2,A0-1E-0B-13-13-43,Windows 10,OEM Production,2026-03-05T21:29:30Z,Managed,036b442265494251bb56ec5300bb264d,Sunset Tower Hotel,,Windows
+SUN-DC4,dd461f84d65749c39ca435673d7559b2,00-15-5D-4D-0B-01,Windows Server 2025,Microsoft Corporation,2026-03-05T21:47:17Z,Managed,919649f41b4b4cc9b2376fe0d8dc7bde,Sunset Tower Hotel,Default-First-Site-Name,Windows
+STH-PAYROLL-DT,dd461f84d65749c39ca435673d7559b2,"D8-BB-C1-B9-FD-89, B0-19-21-E7-7F-FB",Windows 11,LENOVO,2026-03-05T22:03:27Z,Managed,b9fbe568a1f64ed6bb99e357fc7d6c3e,Sunset Tower Hotel,Default-First-Site-Name,Windows
+STH-FNBMANAGER,dd461f84d65749c39ca435673d7559b2,"04-7C-16-2D-37-4B, B0-19-21-E7-82-29",Windows 11,LENOVO,2026-03-05T07:27:00Z,Managed,7fcb26aab09c40aabbc8d521b1c06062,Sunset Tower Hotel,Default-First-Site-Name,Windows
+STH-HSKPSUP-DT,dd461f84d65749c39ca435673d7559b2,18-3D-2D-7E-8E-33,Windows 11,LENOVO,2026-03-05T21:31:53Z,Managed,0dd2fbb306544a8788000dcd8c706191,Sunset Tower Hotel,Default-First-Site-Name,Windows
+STH-HSKPMGR-LT,dd461f84d65749c39ca435673d7559b2,"F4-A8-0D-0D-E3-1B, 18-93-41-37-EE-43",Windows 11,LENOVO,2026-03-05T21:54:53Z,Managed,70717d7d9dc84d7dab34949b5efb0376,Sunset Tower Hotel,Default-First-Site-Name,Windows
+STH-HRDIR-DT,dd461f84d65749c39ca435673d7559b2,"C8-D9-D2-23-88-00, B0-19-21-E7-6C-59",Windows 11,HP,2026-03-05T21:52:39Z,Managed,506d461538e1441f81c392adc75067eb,Sunset Tower Hotel,Default-First-Site-Name,Windows
+STH-FDMGR3-LT,dd461f84d65749c39ca435673d7559b2,18-93-41-39-4D-A6,Windows 11,LENOVO,2026-03-05T21:44:15Z,Managed,b7beef0ef2654fefab3fcd6107b46446,Sunset Tower Hotel,Default-First-Site-Name,Windows
+STH-FDMGR-DT2,dd461f84d65749c39ca435673d7559b2,"40-C2-BA-C2-8C-1A, 2A-B2-B9-AE-DD-F1",Windows 11,LENOVO,2026-03-05T21:57:17Z,Managed,f0f781198eb140b7bc5e7e1c554f29c4,Sunset Tower Hotel,Default-First-Site-Name,Windows
+STH-FD3-DT2,dd461f84d65749c39ca435673d7559b2,"40-C2-BA-C2-8D-55, 2A-B2-B9-AE-DD-99, 24-B2-B9-AE-DD-99",Windows 11,LENOVO,2026-03-05T21:56:13Z,Managed,5bd3b414caf34f7f8f45ec47c776382d,Sunset Tower Hotel,Default-First-Site-Name,Windows
+STH-FD2-DT,dd461f84d65749c39ca435673d7559b2,"E0-73-E7-39-7D-33, 74-97-79-12-B8-1B",Windows 11,HP,2026-03-05T21:52:48Z,Managed,1a0c55bf281c4fea9cffdb870d5377bf,Sunset Tower Hotel,Default-First-Site-Name,Windows
+STH-EVENTS2-DT,dd461f84d65749c39ca435673d7559b2,"74-5D-22-06-61-C6, 70-D8-C2-02-A5-99",Windows 11,LENOVO,2026-03-05T21:51:40Z,Managed,00953fa8108543c9a325ba02455719d3,Sunset Tower Hotel,Default-First-Site-Name,Windows
+OPI-VM2,dd461f84d65749c39ca435673d7559b2,00-15-5D-4D-0B-04,Windows Server 2025,Microsoft Corporation,2026-03-05T22:02:44Z,Managed,011fb129e42c4ba3914f665ba29485fe,Sunset Tower Hotel,Default-First-Site-Name,Windows
+STH-DIRROOMS-LT,dd461f84d65749c39ca435673d7559b2,"6C-0B-84-B1-DF-E9, C8-15-4E-0B-7C-0A",Windows 11,LENOVO,2026-03-05T21:49:04Z,Managed,297f58a658a64a0581cb14e896ba5f2b,Sunset Tower Hotel,Default-First-Site-Name,Windows
+STH-001,dd461f84d65749c39ca435673d7559b2,"FC-5C-EE-9E-83-9A, 58-6D-67-C3-1B-03",Windows 11,LENOVO,2026-03-05T21:58:57Z,Managed,422f6644521f4684b4fc46c8f98ca269,Sunset Tower Hotel,Default-First-Site-Name,Windows
+STH-LIMOKO-DT,dd461f84d65749c39ca435673d7559b2,"3C-52-82-71-5B-B1, 98-25-4A-FE-37-88",Windows 10,HP,2026-03-05T21:30:21Z,Managed,229de70add034b6a8aea7f8d1d2af9e7,Sunset Tower Hotel,Default-First-Site-Name,Windows
+SUN-DC3,dd461f84d65749c39ca435673d7559b2,D4-F5-EF-66-9F-5C,Windows Server 2022,HPE,2026-03-05T21:55:33Z,Managed,9f8ded769b6247678f693785c79ade9d,Sunset Tower Hotel,Default-First-Site-Name,Windows
+SYDMI-JUMP,f9bd66cd531849bfba240bf27ba7dca2,4C-34-88-62-DE-00,Windows 10,LENOVO,2026-03-05T21:57:05Z,Managed,b1e18116e69a438b8d160a5271f69b5f,Sydell Group - Miami,,Windows
+SYDELLGROUPFS01,f9bd66cd531849bfba240bf27ba7dca2,00-0D-3A-1B-43-EC,Windows Server 2019,Microsoft Corporation,2026-03-05T21:46:26Z,Managed,089750671d204da486ed4753b647b27b,Sydell Group - Miami,,Windows
+SYD-LON-LT20,f9bd66cd531849bfba240bf27ba7dca2,E0-0A-F6-51-7B-99,Windows 11,LENOVO,2026-03-05T21:48:38Z,Managed,82f218785e3047209246b84805ad272f,Sydell Group - Miami,,Windows
+SYD-DTSD-LT,f9bd66cd531849bfba240bf27ba7dca2,80-45-DD-0A-58-89,Windows 11,Microsoft Corporation,2026-03-05T22:04:29Z,Managed,ef247fcbc3804bbd88d3472118adb441,Sydell Group - Miami,,Windows
+MIACORPLAPT008,f9bd66cd531849bfba240bf27ba7dca2,"F4-A8-0D-1F-CE-E5, C0-3C-59-6F-97-9E",Windows 11,LENOVO,2026-03-05T21:23:53Z,Managed,f2ae905986124f188ddcf47e2b7f37f9,Sydell Group - Miami,,Windows
+NOM-WYN-OPS-LT,f9bd66cd531849bfba240bf27ba7dca2,"F4-A8-0D-1F-D5-9D, 9C-65-EB-90-28-60",Windows 11,LENOVO,2026-03-05T21:39:18Z,Managed,2ff78bea214a44cdb79ef15b52ea7e1f,Sydell Group - Miami,,Windows
+NOM-WYN-PRCH-LT,f9bd66cd531849bfba240bf27ba7dca2,"F4-A8-0D-0A-2B-B6, 9C-65-EB-90-5E-89",Windows 11,LENOVO,2026-03-05T21:38:14Z,Managed,e5b72e8d12d447ad95dd7fe23367fbd4,Sydell Group - Miami,,Windows
+CORENYCLAPT12,f0fa9ea15ba94493b463e1a2a9152f3a,C0-A5-E8-3D-F4-28,Windows 11,LENOVO,2026-03-05T22:05:40Z,Managed,13f3dc3e7fc34b48bfef50c9d9e3095a,"The Core Club Fifth Ave, Inc.",,Windows
+CORENYCLAPT040,f0fa9ea15ba94493b463e1a2a9152f3a,40-C7-3C-EB-8F-84,Windows 11,Microsoft Corporation,2026-03-05T21:26:33Z,Managed,beb51f98d1864b55bdf3259125e944ee,"The Core Club Fifth Ave, Inc.",,Windows
+CORENYCLAPT039,f0fa9ea15ba94493b463e1a2a9152f3a,B0-60-88-53-CD-07,Windows 11,LENOVO,2026-03-05T18:37:27Z,Managed,485ad86c4e2b4ccb9bf38d3105f4a3a9,"The Core Club Fifth Ave, Inc.",,Windows
+CORENYCLAPT036,f0fa9ea15ba94493b463e1a2a9152f3a,8C-3B-4A-AC-0D-5D,Windows 11,LENOVO,2026-03-05T21:44:16Z,Managed,bea9ac979dca41069d42e7927fdc3952,"The Core Club Fifth Ave, Inc.",,Windows
+CORENYCLAPT035,f0fa9ea15ba94493b463e1a2a9152f3a,EC-8E-77-4A-A0-6F,Windows 11,LENOVO,2026-03-05T21:39:12Z,Managed,1bf8d73c9778457e91f6eb8204cbaa8f,"The Core Club Fifth Ave, Inc.",,Windows
+CORENYCLAPT004,f0fa9ea15ba94493b463e1a2a9152f3a,4C-82-A9-5F-2E-4D,Windows 11,LENOVO,2026-03-05T21:52:01Z,Managed,57140b4ef7884c078ac1152067b0f950,"The Core Club Fifth Ave, Inc.",,Windows
+CORENYCLAPT031,f0fa9ea15ba94493b463e1a2a9152f3a,68-C6-AC-08-C6-B3,Windows 11,LENOVO,2026-03-05T21:59:02Z,Managed,24d47605c82147fb8c5f7888cd19974b,"The Core Club Fifth Ave, Inc.",,Windows
+CORENYCLAPT032,f0fa9ea15ba94493b463e1a2a9152f3a,EC-8E-77-4A-AD-58,Windows 11,LENOVO,2026-03-05T19:14:32Z,Managed,5df76e2590ed4fab95d6c9fd83dfa7f7,"The Core Club Fifth Ave, Inc.",,Windows
+CORENYCLAPT021,f0fa9ea15ba94493b463e1a2a9152f3a,04-7B-CB-C8-7A-8A,Windows 11,LENOVO,2026-03-05T21:55:07Z,Managed,9499e12a51fa4afa81aab02b6972ffcb,"The Core Club Fifth Ave, Inc.",,Windows
+CORENYCJUMPPC,f0fa9ea15ba94493b463e1a2a9152f3a,"00-E0-67-2E-83-C9, 0A-00-27-00-00-0E",Windows 10,Protectli,2026-03-05T21:40:42Z,Managed,cf3dea4381a34b53a3f95841c1247c28,"The Core Club Fifth Ave, Inc.",,Windows
+CORENYCLAPT019,f0fa9ea15ba94493b463e1a2a9152f3a,28-DF-EB-F8-9A-7B,Windows 11,LENOVO,2026-03-05T19:50:08Z,Managed,a817a3f0179f467a81b6365698b79bf4,"The Core Club Fifth Ave, Inc.",,Windows
+CORENYCLAPT030,f0fa9ea15ba94493b463e1a2a9152f3a,48-68-4A-17-E0-17,Windows 11,LENOVO,2026-03-05T21:53:43Z,Managed,7c806e34aac3492fabad0eefdec0c363,"The Core Club Fifth Ave, Inc.",,Windows
+CORENYCLAPT007,f0fa9ea15ba94493b463e1a2a9152f3a,28-DF-EB-F9-BC-6C,Windows 11,LENOVO,2026-03-05T20:45:24Z,Managed,6cddb351cb7041f18e36cbd25ac24aec,"The Core Club Fifth Ave, Inc.",,Windows
+CORENYCCONFWORK,f0fa9ea15ba94493b463e1a2a9152f3a,40-74-E0-50-3D-4A,Windows 10,Intel(R) Client Systems,2026-03-05T21:57:05Z,Managed,1900ad02d06444c48533c674302c74a1,"The Core Club Fifth Ave, Inc.",,Windows
+DESKTOP-T5JB52H,f0fa9ea15ba94493b463e1a2a9152f3a,7C-83-34-BC-C8-EF,Windows 10,AZW,2026-03-05T21:33:07Z,Managed,14d01d8b3a3e48089d4d4e4fed4ed943,"The Core Club Fifth Ave, Inc.",,Windows
+CORENYCLAPT025,f0fa9ea15ba94493b463e1a2a9152f3a,10-5F-AD-88-0C-70,Windows 11,LENOVO,2026-03-05T21:58:55Z,Managed,d34677275c3b4f42a9d9346c059fa412,"The Core Club Fifth Ave, Inc.",,Windows
+CORENYCWORK008,f0fa9ea15ba94493b463e1a2a9152f3a,E4-0D-36-7F-D2-F8,Windows 11,LENOVO,2026-03-05T22:03:51Z,Managed,9cc7a9d76153465693446243b9ddedbc,"The Core Club Fifth Ave, Inc.",,Windows
+CORENYCLAPT033,f0fa9ea15ba94493b463e1a2a9152f3a,EC-8E-77-A8-CC-A8,Windows 11,LENOVO,2026-02-24T16:16:09Z,Managed,e4d2ec8f6cd94e019ca55c560ca3a8a8,"The Core Club Fifth Ave, Inc.",,Windows
+CORENYCWORK005,f0fa9ea15ba94493b463e1a2a9152f3a,F0-20-FF-5F-A1-7C,Windows 11,Dell Inc.,2026-03-05T21:41:08Z,Managed,9a32dd6bf437492cb1cdd6824bb811db,"The Core Club Fifth Ave, Inc.",,Windows
+CORENYCWORK004,f0fa9ea15ba94493b463e1a2a9152f3a,38-7A-0E-68-60-E1,Windows 11,LENOVO,2026-03-05T21:46:14Z,Managed,f21aae529d984c36ba3bbd58ca4f6872,"The Core Club Fifth Ave, Inc.",,Windows
+CORENYCLAPT017,f0fa9ea15ba94493b463e1a2a9152f3a,58-1C-F8-7B-76-EA,Windows 11,LENOVO,2026-03-05T21:45:46Z,Managed,6353bb3eec164622ae81f60118277068,"The Core Club Fifth Ave, Inc.",,Windows
+CORENYCSALTOWOR,f0fa9ea15ba94493b463e1a2a9152f3a,00-23-24-C9-76-46,Windows 10,LENOVO,2026-03-05T21:37:56Z,Managed,3a6760d8862f47b7a95a246cd1737853,"The Core Club Fifth Ave, Inc.",,Windows
+CORENYCWORK001,f0fa9ea15ba94493b463e1a2a9152f3a,CC-6B-1E-6B-0C-AD,Windows 11,LENOVO,2026-03-05T21:38:18Z,Managed,8ef9f3de49ce4f8280f3b30ff0f5e4ce,"The Core Club Fifth Ave, Inc.",,Windows
+CORENYCWORK009,f0fa9ea15ba94493b463e1a2a9152f3a,90-10-57-EE-20-7D,Windows 11,Dell Inc.,2026-03-05T21:45:20Z,Managed,861207f91b3b4bf1a4661ea696b032c7,"The Core Club Fifth Ave, Inc.",,Windows
+CORENYCWORK003,f0fa9ea15ba94493b463e1a2a9152f3a,CC-6B-1E-6A-B2-B1,Windows 11,LENOVO,2026-03-05T21:51:42Z,Managed,aaa9956bcd27425ca4f9490857733812,"The Core Club Fifth Ave, Inc.",,Windows
 HRHL013,df41f96ec07043a699672ae194a34a75,"00-E0-4C-AF-EA-38, 10-E1-8E-45-BD-30, 32-E1-8E-45-BD-30",Windows 11,LENOVO,2026-03-05T21:48:15Z,Managed,db8e701b3d2e4fd692b600d562cf17af,The Hollywood Roosevelt,Default-First-Site-Name,Windows
 HRHL012,df41f96ec07043a699672ae194a34a75,"8C-3B-4A-23-F3-6E, 10-E1-8E-54-00-A8",Windows 11,LENOVO,2026-03-05T21:51:07Z,Managed,de8f38b0e84046a28f1e01e007ccc21c,The Hollywood Roosevelt,Default-First-Site-Name,Windows
 HRHL005,df41f96ec07043a699672ae194a34a75,"38-7C-76-A2-99-1E, 0C-9A-3C-6C-49-13",Windows 11,LENOVO,2026-03-05T21:42:30Z,Managed,095351870e064003aba1d2db93c7fd58,The Hollywood Roosevelt,Default-First-Site-Name,Windows

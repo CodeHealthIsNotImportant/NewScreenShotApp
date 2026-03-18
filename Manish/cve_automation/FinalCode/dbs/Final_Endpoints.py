@@ -24,6 +24,6 @@ merged = pd.merge(
 merged = merged.drop(columns=["Tags_clean","Hostname_clean","SiteName_clean","DeviceHostname_clean"])
 
 # Save result
-merged.to_csv("Final_Endpoints.csv", index=False)
+merged.to_csv("Final_Endpoints2.csv", index=False)
 
 print("Matching completed. Output saved to matched_output.csv")
