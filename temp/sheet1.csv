@@ -1,0 +1,331 @@
+Hostname,Host ID,Last Seen,First Seen,Platform,OS Version,Type,Local IP,External IP,MAC Address,Sensor Version,Host Groups,Sensor Tags,Last Logged In User Account,Prevention Policy,Sensor Update Policy,Content Update Policy,Host Retention Policy
+EXECASSISTANT,9fb54a737d7c43c2a8df001c4c6e5282,2026:03:19T18:46:32Z,2026:02:18T22:04:59Z,Windows,Windows 11,Workstation,192.168.7.82,174.76.115.194,a4:bb:6d:a8:fc:59,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,eg.adadmin,"Nexplay : Phase 1 Detect
+21 Feb 26 00:37 UTC","platform_default
+04 Mar 26 00:27 UTC","platform_default
+18 Feb 26 22:14 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+21 Feb 26 00:28 UTC"
+FDMANAGER,f3da1e9c42da4c1e8e9dc0439d2ef034,2026:03:19T19:07:44Z,2026:02:18T19:06:05Z,Windows,Windows 11,Workstation,192.168.7.99,159.100.175.51,a4:bb:6d:a9:39:2b,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,wrowan,"Nexplay : Phase 1 Detect
+19 Feb 26 14:39 UTC","platform_default
+27 Feb 26 17:59 UTC","platform_default
+18 Feb 26 19:10 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:11 UTC"
+MICROS:SVR,b93f5b2bec81457cad8757d1d2364112,2026:03:03T18:24:12Z,2026:02:18T19:07:06Z,Windows,Windows Server 2012 R2,Server,10.0.110.10,68.111.46.179,20:67:7c:d8:73:0d,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,manager,"Nexplay : Phase 1 Detect
+19 Feb 26 14:43 UTC","platform_default
+27 Feb 26 18:09 UTC","platform_default
+18 Feb 26 19:11 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:12 UTC"
+OWS24305NR2CWHE,669885f9a36b448ba81ed88b0a424fe6,2026:03:19T18:44:41Z,2026:02:18T19:06:47Z,Windows,Windows 10,Workstation,192.168.51.1,68.111.46.179,74:56:3c:ba:97:c8,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,NVRAdmin,"Nexplay : Phase 1 Detect
+19 Feb 26 14:38 UTC","platform_default
+27 Feb 26 18:05 UTC","platform_default
+18 Feb 26 19:11 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:11 UTC"
+SPA:RECEP,d712f44628f949dbb30e70e0001a377f,2026:03:19T18:48:05Z,2026:02:18T19:06:10Z,Windows,Windows 11,Workstation,192.168.7.74,174.76.115.194,f0:1d:bc:a5:81:67,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,salonandspa,"Nexplay : Phase 1 Detect
+19 Feb 26 14:38 UTC","platform_default
+27 Feb 26 17:59 UTC","platform_default
+18 Feb 26 19:11 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:12 UTC"
+SYR:B4TCCGW,e0ff5baa0c38407899fb14a3be9a8f6b,2026:03:19T19:12:31Z,2026:02:18T19:07:48Z,Windows,Windows 10,Workstation,192.168.7.203,159.100.175.51,00:0c:29:ed:ad:38,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,syr.ncentralprobe,"Nexplay : Phase 1 Detect
+19 Feb 26 14:44 UTC","platform_default
+27 Feb 26 18:29 UTC","platform_default
+18 Feb 26 19:09 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:10 UTC"
+SYR:B4TFIAS,5d70a67d801d47d6ace00d80b8184cc6,2026:03:19T19:01:22Z,2026:02:18T19:05:16Z,Windows,Windows Server 2016,Server,192.168.7.204,159.100.175.51,00:0c:29:0a:7d:00,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,syr.ncentralprobe,"Nexplay : Phase 1 Detect
+19 Feb 26 14:43 UTC","platform_default
+27 Feb 26 17:58 UTC","platform_default
+18 Feb 26 19:08 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:09 UTC"
+SYR:CALLACCT,9f8c0915062a4d639d73f45a0294d106,2026:03:19T19:07:22Z,2026:02:18T19:07:29Z,Windows,Windows Server 2016,Server,192.168.7.22,159.100.175.51,00:0c:29:cb:28:90,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,phone,"Nexplay : Phase 1 Detect
+19 Feb 26 14:40 UTC","platform_default
+27 Feb 26 18:04 UTC","platform_default
+18 Feb 26 19:17 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:19 UTC"
+SYR:DATA,de6aeab1366243c5a94d311bcbf63d4d,2026:03:19T19:11:10Z,2026:02:18T19:06:01Z,Windows,Windows Server 2016,Server,192.168.7.12,159.100.175.51,00:0c:29:06:66:2e,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,syr.fnbscansvc,"Nexplay : Phase 1 Detect
+19 Feb 26 14:40 UTC","platform_default
+27 Feb 26 17:59 UTC","platform_default
+18 Feb 26 19:09 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:11 UTC"
+SYR:DC,543cc16f15164eaab5fbf5461a487d48,2026:03:19T19:03:24Z,2026:02:18T19:07:42Z,Windows,Windows Server 2016,Domain Controller,192.168.7.25,159.100.175.51,50:9a:4c:a2:09:51,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,syr.ncentralprobe,"Nexplay : Phase 1 Detect
+19 Feb 26 14:38 UTC","platform_default
+27 Feb 26 18:09 UTC","platform_default
+18 Feb 26 19:13 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:15 UTC"
+SYR:DC1,263ce35abc824c7fb8de302259f5f3ff,2026:03:19T19:19:32Z,2026:02:18T19:07:54Z,Windows,Windows Server 2016,Domain Controller,192.168.7.10,159.100.175.51,00:0c:29:14:8e:f5,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,eg.adadmin,"Nexplay : Phase 1 Detect
+19 Feb 26 14:40 UTC","platform_default
+27 Feb 26 18:00 UTC","platform_default
+18 Feb 26 19:11 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:12 UTC"
+SYR:DC2,76e8fc0bbd7243b4ab53894ced87aad3,2026:03:19T19:12:52Z,2026:02:18T19:06:16Z,Windows,Windows Server 2016,Domain Controller,192.168.7.11,174.76.115.194,00:0c:29:69:ed:6e,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,eg.adadmin,"Nexplay : Phase 1 Detect
+19 Feb 26 14:44 UTC","platform_default
+27 Feb 26 18:04 UTC","platform_default
+18 Feb 26 19:08 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:10 UTC"
+SYR:EMA,c6df6d933aa2468992054874ce349f28,2026:03:04T17:23:50Z,2026:02:18T19:07:17Z,Windows,Windows Server 2022,Server,192.168.7.85,174.76.115.194,00:0c:29:b5:7d:d8,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,administrator,"Nexplay : Phase 1 Detect
+19 Feb 26 14:40 UTC","platform_default
+27 Feb 26 18:00 UTC","platform_default
+18 Feb 26 19:28 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:30 UTC"
+SYR:INT:CLOUD,0d98caf7ad844f7697f45856e8e8479d,2026:03:19T18:57:45Z,2026:02:18T19:07:26Z,Windows,Windows Server 2022,Server,192.168.7.21,159.100.175.51,00:0c:29:d1:49:44,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,Administrator,"Nexplay : Phase 1 Detect
+19 Feb 26 14:41 UTC","platform_default
+27 Feb 26 18:28 UTC","platform_default
+18 Feb 26 19:10 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:10 UTC"
+SYR:ITMGMT,62544c96cae241de976a87ad555a5bc6,2026:03:19T18:55:50Z,2026:02:18T19:05:26Z,Windows,Windows Server 2022,Server,192.168.7.43,159.100.175.51,00:0c:29:eb:a6:0a,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,eg.adadmin,"Nexplay : Phase 1 Detect
+19 Feb 26 14:43 UTC","platform_default
+27 Feb 26 18:00 UTC","platform_default
+18 Feb 26 19:11 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:12 UTC"
+SYR:OPI:CLOUD,272829c9836c434e9a8be9f37c252cb3,2026:03:19T18:55:59Z,2026:02:18T19:07:02Z,Windows,Windows Server 2022,Server,192.168.7.7,159.100.175.51,00:0c:29:ae:73:7e,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,Administrator,"Nexplay : Phase 1 Detect
+19 Feb 26 14:43 UTC","platform_default
+27 Feb 26 17:58 UTC","platform_default
+18 Feb 26 19:14 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:15 UTC"
+SYR:PRTSVR,be42b87bd4e8448c97305faf743728db,2026:03:19T19:13:25Z,2026:02:18T19:07:57Z,Windows,Windows Server 2019,Server,192.168.7.14,159.100.175.51,00:0c:29:d3:e4:37,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,Administrator,"Nexplay : Phase 1 Detect
+19 Feb 26 14:40 UTC","platform_default
+27 Feb 26 18:00 UTC","platform_default
+18 Feb 26 19:28 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:30 UTC"
+SYR:SPA,d04e77203bc74a9b8a9c415fea756723,2026:03:19T18:53:09Z,2026:02:18T19:06:38Z,Windows,Windows 11,Workstation,10.0.20.12,68.111.46.179,04:6c:59:2d:63:97,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,salonandspa,"Nexplay : Phase 1 Detect
+19 Feb 26 14:38 UTC","platform_default
+27 Feb 26 18:00 UTC","platform_default
+18 Feb 26 19:09 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:10 UTC"
+SYRCAPS,bf29610cc52247bdae7eb6d6a6ed71de,2026:03:19T18:59:21Z,2026:02:18T19:06:26Z,Windows,Windows Server 2019,Server,10.0.110.50,68.111.46.179,00:0c:29:d1:66:e7,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,Micros,"Nexplay : Phase 1 Detect
+19 Feb 26 14:42 UTC","platform_default
+27 Feb 26 18:06 UTC","platform_default
+18 Feb 26 19:11 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:11 UTC"
+SYRPMS,5b4cad7c1a5742528d61d2922767374c,2026:03:19T18:47:51Z,2026:02:18T19:07:14Z,Windows,Windows Server 2019,Server,192.168.7.30,174.76.115.194,00:0c:29:fc:03:93,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,ITAdmin,"Nexplay : Phase 1 Detect
+19 Feb 26 14:40 UTC","platform_default
+27 Feb 26 18:06 UTC","platform_default
+18 Feb 26 19:13 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:14 UTC"
+SYRSB:MDF:KWT1,5d5f85d891e74abcb91f2fcabd5033b9,2026:03:19T18:46:17Z,2026:02:18T19:07:30Z,Windows,Windows Server 2022,Server,192.168.7.44,159.100.175.51,00:0c:29:fd:59:dd,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,eg.adadmin,"Nexplay : Phase 1 Detect
+19 Feb 26 14:47 UTC","platform_default
+27 Feb 26 17:58 UTC","platform_default
+18 Feb 26 19:17 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:18 UTC"
+SYRWS:51,d6ea99be04e142a8bb382bce8aaa36f1,2026:03:19T19:09:40Z,2026:02:18T19:07:10Z,Windows,Windows 11,Workstation,10.0.50.36,68.111.46.179,04:7c:16:65:24:af,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,guardhouse,"Nexplay : Phase 1 Detect
+19 Feb 26 14:38 UTC","platform_default
+27 Feb 26 18:09 UTC","platform_default
+18 Feb 26 19:09 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:10 UTC"
+SYRWS:52,79c579f2a14640d7925274a0badafca3,2026:03:19T18:53:25Z,2026:02:18T19:07:20Z,Windows,Windows 11,Workstation,192.168.7.51,174.76.115.194,04:7c:16:65:24:9f,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,jcastillo,"Nexplay : Phase 1 Detect
+19 Feb 26 14:42 UTC","platform_default
+27 Feb 26 18:03 UTC","platform_default
+18 Feb 26 19:16 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:18 UTC"
+SYRWS:53,e62a2b9ead3449e288f7a4cc104239f1,2026:03:19T19:13:24Z,2026:02:18T19:05:34Z,Windows,Windows 10,Workstation,192.168.7.105,174.76.115.194,80:6d:97:5f:5a:56,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,MMinev,"Nexplay : Phase 1 Detect
+19 Feb 26 17:51 UTC","platform_default
+27 Feb 26 18:09 UTC","platform_default
+18 Feb 26 19:12 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:12 UTC"
+SYRWS:55,ffa6dd1adf1f437d8e7be21e568174e1,2026:03:19T18:43:19Z,2026:02:18T19:06:08Z,Windows,Windows 11,Workstation,192.168.7.72,174.76.115.194,d8:bb:c1:ec:e2:46,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,rstitt,"Nexplay : Phase 1 Detect
+19 Feb 26 14:38 UTC","platform_default
+27 Feb 26 18:09 UTC","platform_default
+18 Feb 26 19:09 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:10 UTC"
+SYRWS:56,9fd923af3e584748ad7736f21e0677ee,2026:03:19T19:17:56Z,2026:02:18T19:05:06Z,Windows,Windows 11,Workstation,192.168.7.53,174.76.115.194,9c:2d:cd:5f:90:ce,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,F&badmin,"Nexplay : Phase 1 Detect
+19 Feb 26 17:31 UTC","platform_default
+27 Feb 26 18:03 UTC","platform_default
+18 Feb 26 19:10 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:11 UTC"
+SYRWS:58,e7790b29da354f31b82ac0ae1a6e0133,2026:03:19T18:57:42Z,2026:02:18T20:29:36Z,Windows,Windows 11,Workstation,192.168.7.84,174.76.115.194,04:7c:16:95:e2:1d,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,jblumenthal,"Nexplay : Phase 1 Detect
+19 Feb 26 21:23 UTC","platform_default
+27 Feb 26 19:14 UTC","platform_default
+18 Feb 26 20:35 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 20:35 UTC"
+SYRWS:59,4162fd96ec214a8dafb97e92bbfea77d,2026:03:19T19:08:05Z,2026:02:18T19:07:47Z,Windows,Windows 11,Workstation,192.168.7.101,174.76.115.194,04:7b:cb:63:b5:c6,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,bgodinez,"Nexplay : Phase 1 Detect
+19 Feb 26 15:13 UTC","platform_default
+28 Feb 26 00:49 UTC","platform_default
+18 Feb 26 19:17 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:18 UTC"
+SYRWS:61,839be853cbe245ed908669fb41496f9d,2026:03:19T18:56:03Z,2026:02:18T19:07:26Z,Windows,Windows 11,Workstation,192.168.7.63,174.76.115.194,80:6d:97:5e:b8:e4,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,Acaine,"Nexplay : Phase 1 Detect
+19 Feb 26 14:38 UTC","platform_default
+27 Feb 26 18:05 UTC","platform_default
+18 Feb 26 19:11 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:11 UTC"
+SYRWS:62,c8b863c89b804ecd811fdd0887f3fd20,2026:03:09T06:50:45Z,2026:02:18T19:06:38Z,Windows,Windows 11,Workstation,192.168.0.201,98.185.216.44,dc:46:28:d6:3e:31,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,ediaz,"Nexplay : Phase 1 Detect
+19 Feb 26 17:51 UTC","platform_default
+27 Feb 26 18:09 UTC","platform_default
+18 Feb 26 19:12 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:12 UTC"
+SYRWS:63,4e6bc27a35934812b8f8a2f35a38f235,2026:03:19T19:17:36Z,2026:02:18T19:07:03Z,Windows,Windows 11,Workstation,192.168.100.5,174.76.115.194,00:09:0f:fe:00:01,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,AKambe,"Nexplay : Phase 1 Detect
+19 Feb 26 14:42 UTC","platform_default
+27 Feb 26 18:00 UTC","platform_default
+18 Feb 26 19:17 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:17 UTC"
+SYRWS:64,0a7e6b20966a4932bee17433a32740d2,2026:03:19T19:10:05Z,2026:02:18T19:07:47Z,Windows,Windows 11,Workstation,10.0.104.25,159.100.175.51,70:d8:c2:01:5d:38,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,gsa,"Nexplay : Phase 1 Detect
+19 Feb 26 14:41 UTC","platform_default
+27 Feb 26 17:59 UTC","platform_default
+18 Feb 26 19:10 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:12 UTC"
+SYRWS:65,fbf19479b7f44688badf3f6c9621346e,2026:03:19T19:09:32Z,2026:02:18T19:07:39Z,Windows,Windows 11,Workstation,192.168.7.107,174.76.115.194,74:5d:22:06:69:38,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,gsa,"Nexplay : Phase 1 Detect
+19 Feb 26 14:43 UTC","platform_default
+27 Feb 26 17:58 UTC","platform_default
+18 Feb 26 19:14 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:15 UTC"
+SYRWS:67,679d3ae02f3748f4af8bd2e57234ba00,2026:03:19T18:53:37Z,2026:02:18T19:07:17Z,Windows,Windows 11,Workstation,192.168.7.183,159.100.175.51,74:5d:22:06:69:2a,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,channon,"Nexplay : Phase 1 Detect
+19 Feb 26 17:43 UTC","platform_default
+27 Feb 26 18:19 UTC","platform_default
+18 Feb 26 19:08 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:08 UTC"
+SYRWS:68,e232cbed80b34455bd7f80989be21f32,2026:03:19T19:14:38Z,2026:02:18T19:05:49Z,Windows,Windows 11,Workstation,192.168.7.186,174.76.115.194,74:5d:22:06:69:3b,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,rrios,"Nexplay : Phase 1 Detect
+19 Feb 26 14:44 UTC","platform_default
+27 Feb 26 18:22 UTC","platform_default
+18 Feb 26 19:08 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:10 UTC"
+SYRWS:69,a303bf95cc9543a586c9b6adc004da78,2026:03:19T19:14:21Z,2026:02:18T19:05:11Z,Windows,Windows 11,Workstation,192.168.7.75,159.100.175.51,74:5d:22:01:8f:c9,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,nlonshein,"Nexplay : Phase 1 Detect
+19 Feb 26 14:43 UTC","platform_default
+27 Feb 26 17:58 UTC","platform_default
+18 Feb 26 19:11 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:12 UTC"
+SYRWS:70,cc9c0b0f0133480ea751dd3d8e6eb66e,2026:03:19T19:10:02Z,2026:02:18T19:06:34Z,Windows,Windows 11,Workstation,192.168.7.79,159.100.175.51,74:5d:22:08:04:24,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,dfainberg,"Nexplay : Phase 1 Detect
+19 Feb 26 14:37 UTC","platform_default
+27 Feb 26 18:02 UTC","platform_default
+18 Feb 26 19:12 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:12 UTC"
+SYRWS:71,b18bb5e335b540b781c7ab0fec934bdf,2026:03:19T18:53:47Z,2026:02:18T19:07:23Z,Windows,Windows 11,Workstation,192.168.7.81,159.100.175.51,74:5d:22:06:66:fc,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,bmojic,"Nexplay : Phase 1 Detect
+19 Feb 26 14:44 UTC","platform_default
+27 Feb 26 18:13 UTC","platform_default
+18 Feb 26 19:08 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:09 UTC"
+SYRWS:72,0ec9fbb1006b42489b9cd919618d8f44,2026:03:19T19:03:14Z,2026:02:18T19:07:19Z,Windows,Windows 11,Workstation,192.168.7.109,174.76.115.194,74:5d:22:08:02:04,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,gsa,"Nexplay : Phase 1 Detect
+19 Feb 26 14:43 UTC","platform_default
+27 Feb 26 18:03 UTC","platform_default
+18 Feb 26 19:11 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:12 UTC"
+SYRWS:78,9ab40580b8ab4270a737e84ed15e7e6a,2026:03:19T18:48:19Z,2026:02:18T19:07:24Z,Windows,Windows 11,Workstation,192.168.7.55,174.76.115.194,74:5d:22:10:56:9b,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,zbarrett,"Nexplay : Phase 1 Detect
+19 Feb 26 14:44 UTC","platform_default
+27 Feb 26 18:29 UTC","platform_default
+18 Feb 26 19:15 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:16 UTC"
+SYRWS:79,305bcfc760314c26bbdeef7bb320d310,2026:03:19T19:08:25Z,2026:02:18T19:05:44Z,Windows,Windows 11,Workstation,192.168.7.188,174.76.115.194,74:5d:22:10:57:8b,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,GSA,"Nexplay : Phase 1 Detect
+19 Feb 26 14:43 UTC","platform_default
+27 Feb 26 17:58 UTC","platform_default
+18 Feb 26 19:11 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:12 UTC"
+SYRWS:80,5532cf23816b41b4abf5e111377dc0a2,2026:03:19T19:19:22Z,2026:02:18T19:05:31Z,Windows,Windows 11,Workstation,192.168.7.189,174.76.115.194,74:5d:22:10:57:83,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,arodriguez,"Nexplay : Phase 1 Detect
+19 Feb 26 17:43 UTC","platform_default
+27 Feb 26 18:28 UTC","platform_default
+18 Feb 26 19:12 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:12 UTC"
+SYRWS:82,e09230bc44144bf9bbcaf99673fe0eb8,2026:03:19T18:49:31Z,2026:02:18T19:07:19Z,Windows,Windows 11,Workstation,192.168.7.92,174.76.115.194,74:5d:22:10:56:d2,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,Jmontanez,"Nexplay : Phase 1 Detect
+19 Feb 26 17:35 UTC","platform_default
+27 Feb 26 18:11 UTC","platform_default
+18 Feb 26 19:18 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:18 UTC"
+SYRWS:89,7b14baac2d574bf0aa84be097486e974,2026:03:19T19:18:23Z,2026:02:18T19:06:32Z,Windows,Windows 11,Workstation,192.168.7.90,174.76.115.194,74:5d:22:10:56:97,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,javery,"Nexplay : Phase 1 Detect
+19 Feb 26 17:53 UTC","platform_default
+27 Feb 26 18:12 UTC","platform_default
+18 Feb 26 19:18 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:19 UTC"
+SYRWS:90,fec1016a4e7942509a674bc1673f0116,2026:03:19T18:48:03Z,2026:02:18T19:07:03Z,Windows,Windows 11,Workstation,192.168.7.59,159.100.175.51,04:7b:cb:60:08:4e,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,imilenkovic,"Nexplay : Phase 1 Detect
+19 Feb 26 14:43 UTC","platform_default
+27 Feb 26 17:58 UTC","platform_default
+18 Feb 26 19:10 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:10 UTC"
+SYRWS:91,bb6d5cc77b2c48459b11833e1e747c35,2026:03:19T18:57:27Z,2026:02:18T19:06:24Z,Windows,Windows 11,Workstation,192.168.7.58,159.100.175.51,00:50:b6:b2:82:9c,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,lrudnick,"Nexplay : Phase 1 Detect
+19 Feb 26 14:40 UTC","platform_default
+27 Feb 26 18:04 UTC","platform_default
+18 Feb 26 19:13 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:14 UTC"
+SYRWS:92,41fbc71bc6f749688b80eea6b5082acd,2026:03:19T19:22:15Z,2026:02:18T21:58:32Z,Windows,Windows 11,Workstation,192.168.7.67,174.76.115.194,74:5d:22:10:56:b7,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,llepere,"Nexplay : Phase 1 Detect
+19 Feb 26 22:07 UTC","platform_default
+27 Feb 26 22:47 UTC","platform_default
+18 Feb 26 22:04 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 22:05 UTC"
+SYRWS:CHEF1,c81af39a2aaf471ea5558c781d871953,2026:03:19T18:59:34Z,2026:02:18T19:07:45Z,Windows,Windows 11,Workstation,192.168.7.102,174.76.115.194,b8:85:84:a5:8d:45,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,channon,"Nexplay : Phase 1 Detect
+19 Feb 26 16:01 UTC","platform_default
+27 Feb 26 19:34 UTC","platform_default
+18 Feb 26 19:16 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:18 UTC"
+SYRWS01,a099b902c320475e8622385c2b14e65a,2026:03:19T19:18:57Z,2026:02:18T19:06:42Z,Windows,Windows 10,Workstation,10.0.110.51,68.111.46.179,00:a0:a4:35:47:4e,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,SYR,"Nexplay : Phase 1 Detect
+19 Feb 26 14:41 UTC","platform_default
+27 Feb 26 18:02 UTC","platform_default
+18 Feb 26 19:11 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:12 UTC"
+SYRWS02,16c0e3e1138843169298b4c053f5dc07,2026:03:19T19:07:44Z,2026:02:18T19:07:21Z,Windows,Windows 10,Workstation,10.0.110.52,68.111.46.179,00:a0:a4:35:43:07,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,SYR,"Nexplay : Phase 1 Detect
+19 Feb 26 14:40 UTC","platform_default
+27 Feb 26 18:00 UTC","platform_default
+18 Feb 26 19:28 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:30 UTC"
+SYRWS03,f10fcf034d6743eb891a2a9665aeddff,2026:03:19T18:50:49Z,2026:02:18T19:05:26Z,Windows,Windows 10,Workstation,10.0.110.53,68.111.46.179,00:a0:a4:35:46:60,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,SYR,"Nexplay : Phase 1 Detect
+19 Feb 26 14:40 UTC","platform_default
+27 Feb 26 18:04 UTC","platform_default
+18 Feb 26 19:13 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:14 UTC"
+SYRWS04,3b4e0286b4b547e88a8f4c94fd822917,2026:03:19T19:12:01Z,2026:02:18T19:06:20Z,Windows,Windows 10,Workstation,10.0.110.54,68.111.46.179,00:a0:a4:35:43:bc,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,SYR,"Nexplay : Phase 1 Detect
+19 Feb 26 14:41 UTC","platform_default
+27 Feb 26 18:06 UTC","platform_default
+18 Feb 26 19:08 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:08 UTC"
+SYRWS05,476a926533164d00990864bbd07e399e,2026:03:19T19:06:24Z,2026:02:18T19:07:05Z,Windows,Windows 10,Workstation,10.0.110.55,68.111.46.179,00:a0:a4:35:12:fa,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,SYR,"Nexplay : Phase 1 Detect
+19 Feb 26 14:41 UTC","platform_default
+27 Feb 26 18:03 UTC","platform_default
+18 Feb 26 19:11 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:12 UTC"
+SYRWS06,04550b07fd52414db3c1a262f382f6db,2026:03:19T19:02:49Z,2026:02:18T19:05:21Z,Windows,Windows 10,Workstation,10.0.110.56,68.111.46.179,00:a0:a4:35:43:18,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,SYR,"Nexplay : Phase 1 Detect
+19 Feb 26 14:42 UTC","platform_default
+27 Feb 26 18:00 UTC","platform_default
+18 Feb 26 19:07 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:09 UTC"
+SYRWS07,99aea9f9c2654a638fa315b411bfb33f,2026:03:19T19:12:15Z,2026:02:18T19:07:01Z,Windows,Windows 10,Workstation,10.0.110.57,68.111.46.179,00:a0:a4:35:31:59,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,SYR,"Nexplay : Phase 1 Detect
+19 Feb 26 14:38 UTC","platform_default
+27 Feb 26 17:59 UTC","platform_default
+18 Feb 26 19:10 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:10 UTC"
+SYRWS08,1aa7598ac4d14b33a3df873668e97589,2026:03:19T19:19:47Z,2026:02:18T19:07:19Z,Windows,Windows 10,Workstation,10.0.110.58,68.111.46.179,00:a0:a4:35:53:49,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,SYR,"Nexplay : Phase 1 Detect
+19 Feb 26 15:02 UTC","platform_default
+27 Feb 26 17:58 UTC","platform_default
+18 Feb 26 19:09 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:09 UTC"
+SYRWS09,55cb90abb7c7433ba16638778cf51c7c,2026:03:19T19:11:21Z,2026:02:18T19:07:25Z,Windows,Windows 10,Workstation,10.0.110.59,68.111.46.179,00:a0:a4:35:43:9d,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,SYR,"Nexplay : Phase 1 Detect
+19 Feb 26 14:41 UTC","platform_default
+27 Feb 26 17:58 UTC","platform_default
+18 Feb 26 19:17 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:18 UTC"
+SYRWS10,6f7f043a5a3a42d68efc4794a66fa322,2026:03:19T19:20:26Z,2026:02:18T19:06:18Z,Windows,Windows 10,Workstation,10.0.110.60,68.111.46.179,00:a0:a4:35:46:32,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,SYR,"Nexplay : Phase 1 Detect
+19 Feb 26 14:42 UTC","platform_default
+27 Feb 26 18:00 UTC","platform_default
+18 Feb 26 19:11 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:12 UTC"
+SYRWS11,d4ef3c3c2efa467488ae7e6a46de8a25,2026:03:19T19:10:51Z,2026:02:18T19:07:18Z,Windows,Windows 10,Workstation,10.0.110.61,68.111.46.179,00:a0:a4:35:3e:43,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,SYR,"Nexplay : Phase 1 Detect
+19 Feb 26 14:40 UTC","platform_default
+27 Feb 26 18:00 UTC","platform_default
+18 Feb 26 19:28 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:30 UTC"
+SYRWS12,5f770abd6a1141858a5486e66ac83714,2026:03:19T19:12:56Z,2026:02:18T19:07:28Z,Windows,Windows 10,Workstation,10.0.110.62,68.111.46.179,00:a0:a4:35:5f:14,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,SYR,"Nexplay : Phase 1 Detect
+19 Feb 26 14:41 UTC","platform_default
+27 Feb 26 18:00 UTC","platform_default
+18 Feb 26 19:13 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:13 UTC"
+SYRWS_38,3a1edfd4cafd409596a77347713d632e,2026:03:19T19:12:21Z,2026:02:18T19:06:32Z,Windows,Windows 11,Workstation,192.168.7.73,174.76.115.194,2c:f0:5d:4e:e4:12,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,jovelasco,"Nexplay : Phase 1 Detect
+19 Feb 26 14:39 UTC","platform_default
+27 Feb 26 17:59 UTC","platform_default
+18 Feb 26 19:10 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:11 UTC"
+SYRWS_43,51350b2e84044a749ad57a9f3cab2ce5,2026:03:19T19:03:05Z,2026:02:18T19:07:17Z,Windows,Windows 11,Workstation,192.168.7.80,159.100.175.51,d8:bb:c1:b9:fe:7d,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,iwilliams,"Nexplay : Phase 1 Detect
+19 Feb 26 19:22 UTC","platform_default
+27 Feb 26 19:20 UTC","platform_default
+18 Feb 26 19:10 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:12 UTC"
+SYRWS_44,033f559a679e4464b554ed909d236abc,2026:03:01T00:43:29Z,2026:02:18T19:05:35Z,Windows,Windows 10,Workstation,10.0.104.41,68.111.46.179,88:d8:2e:55:74:45,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,,"Nexplay : Phase 1 Detect
+19 Feb 26 14:42 UTC","platform_default
+27 Feb 26 17:58 UTC","platform_default
+18 Feb 26 19:11 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:11 UTC"
+SYRWS_45,a47e9a36e9f041fd8c2e3960864af46d,2026:03:19T18:42:28Z,2026:02:18T19:07:10Z,Windows,Windows 11,Workstation,10.0.104.227,159.100.175.51,a0:59:50:04:72:89,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,cheras,"Nexplay : Phase 1 Detect
+19 Feb 26 14:38 UTC","platform_default
+27 Feb 26 18:09 UTC","platform_default
+18 Feb 26 19:09 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:10 UTC"
+SYRWS_49,8456200dc7e342b9914a7fb44c8ab0bc,2026:03:19T19:03:25Z,2026:02:18T21:24:36Z,Windows,Windows 11,Workstation,192.168.7.78,174.76.115.194,d8:bb:c1:b9:26:f1,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,Jgil,"Nexplay : Phase 1 Detect
+19 Feb 26 15:44 UTC","platform_default
+02 Mar 26 20:37 UTC","platform_default
+18 Feb 26 21:27 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 21:33 UTC"
+SYR_WS50,816c615e2d474fbd946e17791a0ffa89,2026:03:19T18:57:44Z,2026:02:18T20:04:35Z,Windows,Windows 11,Workstation,192.168.7.68,174.76.115.194,d8:bb:c1:b9:26:70,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,emazariegos,"Nexplay : Phase 1 Detect
+19 Feb 26 14:42 UTC","platform_default
+27 Feb 26 18:03 UTC","platform_default
+18 Feb 26 20:09 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 20:10 UTC"

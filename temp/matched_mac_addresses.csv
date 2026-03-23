@@ -1,0 +1,6 @@
+Hostname,Host ID,Last Seen_x,First Seen_x,Platform,OS Version_x,Type,Local IP,External IP,MAC,Sensor Version,Host Groups,Sensor Tags,Last Logged In User Account,Prevention Policy,Sensor Update Policy,Content Update Policy,Host Retention Policy,Device type,Device function,IP Address,Visible IP Address,OS Type,OS Version_y,Hostname(s),Manufacturer,First Seen_y,Last Seen_y
+SYR:ITMGMT,62544c96cae241de976a87ad555a5bc6,2026:03:19T18:55:50Z,2026:02:18T19:05:26Z,Windows,Windows Server 2022,Server,192.168.7.43,159.100.175.51,00:0c:29:eb:a6:0a,7.32.20403.0,San Ysidro Ranch,SensorGroupingTags/San_Ysidro_Ranch,eg.adadmin,"Nexplay : Phase 1 Detect
+19 Feb 26 14:43 UTC","platform_default
+27 Feb 26 18:00 UTC","platform_default
+18 Feb 26 19:11 UTC","Default Policy (Windows, Linux, Mac, ChromeOS, K8S)
+18 Feb 26 19:12 UTC",Workstation,Workstation,192.168.7.43,159.100.175.51,Windows,Windows 10,syr-itmgmt,"VMware, Inc.",12/19/2025 23:33,3/19/2026 15:54

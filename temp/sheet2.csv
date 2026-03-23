@@ -1,0 +1,84 @@
+Device type,Device function,IP Address,Visible IP Address,OS Type,OS Version,Hostname(s),MAC Address,Manufacturer,First Seen,Last Seen
+Server,Server,192.168.7.5,159.100.175.51,Linux,Debian,,80:18:44:e7:73:98,Dell Inc.,9/29/2025 21:23,3/19/2026 15:54
+Server,Server,192.168.7.16,159.100.175.51,Linux,Debian,,d4:f5:ef:91:53:a4,Hewlett Packard Enterprise,9/29/2025 21:23,3/19/2026 15:54
+Server,Server,192.168.7.20,159.100.175.51,Linux,Ubuntu,,d0:50:99:d0:c5:f6,ASRock Incorporation,9/29/2025 19:21,3/19/2026 15:54
+Server,Server,192.168.7.26,159.100.175.51,Linux,Red Hat,,50:9a:4c:a2:09:53,Dell Inc.,9/29/2025 21:23,3/19/2026 15:54
+Workstation,Workstation,192.168.7.45,159.100.175.51,Windows,Windows 10,,00:60:e0:9f:84:c0,"AXIOM TECHNOLOGY CO., LTD.",9/29/2025 21:23,3/19/2026 15:54
+Workstation,Workstation,192.168.7.43,159.100.175.51,Windows,Windows 10,syr-itmgmt,00:0c:29:eb:a6:0a,"VMware, Inc.",12/19/2025 23:33,3/19/2026 15:54
+Server,Server,192.168.7.57,159.100.175.51,Linux,Debian,,d0:50:99:e2:7c:41,ASRock Incorporation,9/29/2025 21:23,3/19/2026 15:54
+Server,Server,192.168.7.64,159.100.175.51,Linux,Debian,,00:0c:29:a0:15:cd,"VMware, Inc.",9/29/2025 23:21,3/19/2026 15:54
+Workstation,Workstation,192.168.7.46,159.100.175.51,Windows,Windows 10,,00:60:e0:9f:84:b3,"AXIOM TECHNOLOGY CO., LTD.",9/29/2025 21:23,3/19/2026 15:54
+Server,Server,192.168.7.94,159.100.175.51,Linux,Ubuntu,,00:0c:29:c4:fa:2e,"VMware, Inc.",9/29/2025 21:23,3/19/2026 15:54
+Server,Server,192.168.7.254,159.100.175.51,Linux,Red Hat,,d0:94:66:25:c1:34,Dell Inc.,9/29/2025 19:21,3/19/2026 15:43
+Server,Server,10.0.104.71,98.173.24.130,Windows,Windows Server 2016 or 2019,,,,3/17/2026 21:32,3/17/2026 23:20
+Workstation,Workstation,10.0.104.138,98.173.24.130,Windows,Windows 10,,,,3/17/2026 22:09,3/17/2026 22:09
+Workstation,Workstation,10.0.104.218,98.173.24.130,Windows,Windows 10,,,,3/17/2026 20:33,3/17/2026 21:23
+Workstation,Workstation,10.0.104.125,98.173.24.130,Windows,Windows 10,,,,3/17/2026 20:35,3/17/2026 21:23
+Server,Server,10.0.105.57,98.173.24.130,Linux,Ubuntu,,,,3/17/2026 21:23,3/17/2026 21:23
+Workstation,Workstation,10.0.105.8,98.173.24.130,Windows,Windows 10,,,,3/17/2026 20:53,3/17/2026 20:53
+Workstation,Workstation,10.0.104.72,98.173.24.130,Apple,macOS,,b6:21:48:70:45:23,,3/17/2026 20:33,3/17/2026 20:35
+Server,Server,10.0.104.98,98.173.24.130,Windows,Windows Server 2016 or 2019,,,,3/17/2026 3:22,3/17/2026 3:27
+Workstation,Workstation,10.0.104.86,98.173.24.130,Apple,macOS,rational,20:ba:36:1b:87:ba,,1/23/2026 1:33,3/17/2026 3:22
+Server,Server,10.0.105.38,98.173.24.130,Linux,Ubuntu,,,,3/17/2026 3:22,3/17/2026 3:22
+Server,Server,10.0.105.75,98.173.24.130,Linux,Linux Distribution,,,,3/17/2026 3:22,3/17/2026 3:22
+Server,Server,10.0.105.77,98.173.24.130,Linux,Linux Distribution,,,,3/17/2026 3:22,3/17/2026 3:22
+Server,Server,10.0.104.23,98.173.24.130,Windows,Windows Server 2012 R2,,,,3/17/2026 3:21,3/17/2026 3:21
+Server,Server,10.0.104.65,98.173.24.130,Linux,Linux Distribution,,,,3/17/2026 3:21,3/17/2026 3:21
+Server,Server,10.0.104.93,98.173.24.130,Linux,Linux Distribution,,,,3/17/2026 3:21,3/17/2026 3:21
+Server,Server,10.0.104.169,98.173.24.130,Linux,Linux Distribution,,,,3/17/2026 3:21,3/17/2026 3:21
+Server,Server,10.0.104.154,98.173.24.130,Linux,Linux Distribution,,,,3/17/2026 3:21,3/17/2026 3:21
+Server,Server,10.0.104.175,98.173.24.130,Linux,Linux Distribution,,,,3/17/2026 3:21,3/17/2026 3:21
+Workstation,Workstation,10.0.104.82,98.173.24.130,Apple,macOS,macbook-pro-m4,16:27:aa:e2:c3:77,,3/14/2026 6:12,3/15/2026 23:22
+Workstation,Workstation,10.0.104.185,98.173.24.130,Windows,Windows 10,sgc-eg-lt,98:bd:80:b8:77:6b,,2/27/2026 19:01,3/15/2026 23:22
+Workstation,Workstation,10.0.104.105,98.173.24.130,Apple,macOS,,2a:c1:f8:e6:9a:e1,,12/25/2025 21:33,3/15/2026 23:22
+Workstation,Workstation,10.0.104.84,98.173.24.130,Apple,macOS,,b6:ee:78:d0:a7:a4,,3/15/2026 22:13,3/15/2026 23:16
+Server,Server,10.0.104.51,98.173.24.130,Linux,CentOS,,54:64:de:73:0d:5e,,11/13/2025 1:33,3/15/2026 23:15
+Server,Server,10.0.104.163,98.173.24.130,Linux,CentOS,,54:64:de:73:11:ce,,11/12/2025 4:38,3/15/2026 23:14
+Server,Server,10.0.104.214,98.173.24.130,Linux,Linux Distribution,,,,3/15/2026 23:14,3/15/2026 23:14
+Workstation,Workstation,192.168.7.106,159.100.175.51,Windows,Windows 10,sgc-eg-lt,c4:c6:e6:c3:6a:69,,3/14/2026 2:59,3/15/2026 22:48
+Server,Server,10.0.105.46,98.173.24.130,Linux,Debian,,,,3/15/2026 22:14,3/15/2026 22:14
+Server,Server,10.0.104.209,98.173.24.130,Windows,Windows Server 2016 or 2019,,9e:aa:55:27:89:06,,3/13/2026 0:15,3/15/2026 4:48
+Workstation,Workstation,10.0.104.84,98.173.24.130,Apple,macOS,,ea:29:1d:02:5c:ea,,3/14/2026 22:04,3/15/2026 4:48
+Workstation,Workstation,10.0.104.76,98.173.24.130,Apple,macOS,,3c:06:30:41:3c:d3,"Apple, Inc.",3/12/2026 23:04,3/15/2026 4:45
+Workstation,Workstation,10.0.105.99,98.173.24.130,Apple,macOS,,0e:0d:28:b5:cc:51,,3/12/2026 1:05,3/15/2026 4:40
+Workstation,Workstation,10.0.104.148,98.173.24.130,Apple,macOS,,2e:41:09:94:d0:24,,3/14/2026 0:12,3/15/2026 4:39
+Server,Server,10.0.105.47,98.173.24.130,Linux,Linux Distribution,,,,3/15/2026 3:05,3/15/2026 3:05
+Server,Server,10.0.105.34,98.173.24.130,Linux,Linux Distribution,,,,3/15/2026 3:05,3/15/2026 3:05
+Server,Server,10.0.105.127,98.173.24.130,Linux,Ubuntu,,,,3/15/2026 3:05,3/15/2026 3:05
+Server,Server,10.0.104.177,98.173.24.130,Linux,Linux Distribution,,,,3/15/2026 2:35,3/15/2026 2:35
+Workstation,Workstation,10.0.104.101,98.173.24.130,Windows,Windows 10,,26:cb:40:dc:01:0c,,3/13/2026 22:54,3/15/2026 0:28
+Server,Server,10.0.104.89,98.173.24.130,Linux,Linux Distribution,,,,3/14/2026 23:08,3/14/2026 23:08
+Server,Server,10.0.104.96,98.173.24.130,Linux,Red Hat,,,,3/14/2026 23:08,3/14/2026 23:08
+Server,Server,10.0.104.110,98.173.24.130,Linux,Linux Distribution,,,,3/14/2026 21:07,3/14/2026 21:07
+Server,Server,10.0.104.196,98.173.24.130,Linux,Linux Distribution,,,,3/14/2026 21:07,3/14/2026 21:07
+Server,Server,10.0.104.250,98.173.24.130,Linux,Linux Distribution,,,,3/14/2026 21:06,3/14/2026 21:06
+Server,Server,10.0.105.25,98.173.24.130,Windows,Windows Server 2016 or 2019,,,,3/14/2026 17:06,3/14/2026 17:06
+Server,Server,10.0.104.28,98.173.24.130,Windows,Windows Server 2016 or 2019,,,,3/14/2026 17:05,3/14/2026 17:05
+Server,Server,10.0.104.99,98.173.24.130,Linux,Ubuntu,,,,3/14/2026 17:05,3/14/2026 17:05
+Server,Server,10.0.104.104,98.173.24.130,Linux,Ubuntu,,,,3/14/2026 17:05,3/14/2026 17:05
+Server,Server,10.0.104.233,98.173.24.130,Linux,Linux Distribution,,,,3/14/2026 17:05,3/14/2026 17:05
+Server,Server,10.0.104.95,98.173.24.130,Linux,Linux Distribution,,,,3/14/2026 13:03,3/14/2026 13:03
+Server,Server,10.0.107.104,98.173.24.130,Windows,Windows Server 2016 or 2019,,,,3/14/2026 11:04,3/14/2026 11:04
+Server,Server,10.0.105.25,98.173.24.130,Linux,Debian,,,,3/14/2026 9:02,3/14/2026 9:02
+Server,Server,10.0.105.4,98.173.24.130,Linux,Linux Distribution,,,,3/14/2026 9:02,3/14/2026 9:02
+Server,Server,10.0.105.32,98.173.24.130,Linux,Linux Distribution,,,,3/14/2026 9:02,3/14/2026 9:02
+Server,Server,10.0.104.48,98.173.24.130,Windows,Windows Server 2016 or 2019,,,,3/14/2026 7:01,3/14/2026 8:59
+Server,Server,10.0.104.27,98.173.24.130,Windows,Windows Server 2016 or 2019,,,,3/14/2026 7:01,3/14/2026 8:59
+Server,Server,10.0.104.122,98.173.24.130,Linux,Linux Distribution,,,,3/14/2026 7:01,3/14/2026 7:01
+Server,Server,10.0.105.125,98.173.24.130,Linux,Ubuntu,,,,3/14/2026 5:01,3/14/2026 5:01
+Server,Server,10.0.104.180,98.173.24.130,Linux,Linux Distribution,,,,3/14/2026 0:58,3/14/2026 0:58
+Server,Server,10.0.104.179,98.173.24.130,Linux,Linux Distribution,,,,3/14/2026 0:58,3/14/2026 0:58
+Server,Server,10.0.104.22,98.173.24.130,Linux,Linux Distribution,,,,3/13/2026 22:58,3/13/2026 22:58
+Server,Server,10.0.104.20,98.173.24.130,Linux,Linux Distribution,,,,3/13/2026 22:58,3/13/2026 22:58
+Server,Server,10.0.104.21,98.173.24.130,Linux,Linux Distribution,,,,3/13/2026 22:58,3/13/2026 22:58
+Server,Server,10.0.104.25,98.173.24.130,Linux,Linux Distribution,,,,3/13/2026 22:58,3/13/2026 22:58
+Server,Server,10.0.105.115,98.173.24.130,Linux,Linux Distribution,,,,3/13/2026 22:55,3/13/2026 22:55
+Server,Server,10.0.104.147,98.173.24.130,Linux,Linux Distribution,,,,3/13/2026 22:54,3/13/2026 22:54
+Server,Server,10.0.104.133,98.173.24.130,Linux,Red Hat,,,,3/13/2026 22:54,3/13/2026 22:54
+Server,Server,10.0.104.134,98.173.24.130,Linux,Red Hat,,,,3/13/2026 22:54,3/13/2026 22:54
+Server,Server,10.0.104.130,98.173.24.130,Linux,Linux Distribution,,,,3/13/2026 22:54,3/13/2026 22:54
+Workstation,Workstation,10.0.105.6,98.173.24.130,Windows,Windows 10,,,,3/13/2026 20:54,3/13/2026 20:54
+Server,Server,10.0.104.63,98.173.24.130,Linux,Linux Distribution,,,,3/13/2026 20:51,3/13/2026 20:51
+Server,Server,10.0.104.118,98.173.24.130,Linux,Linux Distribution,,,,3/13/2026 20:51,3/13/2026 20:51
+Server,Server,10.0.104.120,98.173.24.130,Linux,Linux Distribution,,,,3/13/2026 20:51,3/13/2026 20:51
+Workstation,Workstation,10.0.105.84,98.173.24.130,Windows,Windows 10,,,,3/13/2026 0:58,3/13/2026 1:12
